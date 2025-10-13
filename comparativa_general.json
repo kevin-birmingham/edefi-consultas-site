@@ -1,0 +1,93 @@
+[
+  {
+    "Equipo": "Velez Sarsfield",
+    "Apertura": 227,
+    "Clausura": 134,
+    "Anual": 361,
+    "Consistente": true
+  },
+  {
+    "Equipo": "S. F. Soler",
+    "Apertura": 218,
+    "Clausura": 132,
+    "Anual": 350,
+    "Consistente": true
+  },
+  {
+    "Equipo": "La Rural",
+    "Apertura": 205,
+    "Clausura": 133,
+    "Anual": 338,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Juv. de Castelar",
+    "Apertura": 198,
+    "Clausura": 122,
+    "Anual": 320,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Academia Leloir",
+    "Apertura": 210,
+    "Clausura": 108,
+    "Anual": 318,
+    "Consistente": true
+  },
+  {
+    "Equipo": "U. de Matanza",
+    "Apertura": 204,
+    "Clausura": 113,
+    "Anual": 317,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Fragio",
+    "Apertura": 191,
+    "Clausura": 123,
+    "Anual": 314,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Soc. Italiana HN",
+    "Apertura": 191,
+    "Clausura": 117,
+    "Anual": 308,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Def. San Justo",
+    "Apertura": 184,
+    "Clausura": 91,
+    "Anual": 275,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Tiro Libre",
+    "Apertura": 170,
+    "Clausura": 96,
+    "Anual": 266,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Ramon Lista",
+    "Apertura": 170,
+    "Clausura": 83,
+    "Anual": 253,
+    "Consistente": true
+  },
+  {
+    "Equipo": "M. Auxiliadora",
+    "Apertura": 154,
+    "Clausura": 66,
+    "Anual": 220,
+    "Consistente": true
+  },
+  {
+    "Equipo": "F. de Belgrano",
+    "Apertura": 131,
+    "Clausura": 69,
+    "Anual": 200,
+    "Consistente": true
+  }
+]

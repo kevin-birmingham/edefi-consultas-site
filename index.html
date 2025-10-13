@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>EDEFI – Consultas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body {
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial,
+          sans-serif;
+        margin: 2rem;
+      }
+      h1 {
+        margin: 0 0 1rem;
+        font-size: 1.6rem;
+      }
+      fieldset {
+        border: 1px solid #ccc;
+        padding: 1rem;
+        border-radius: 8px;
+      }
+      label {
+        display: block;
+        margin: 0.5rem 0 0.2rem;
+      }
+      input,
+      select,
+      button {
+        padding: 0.5rem;
+        font-size: 1rem;
+      }
+      .row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+      }
+      .result {
+        white-space: pre-wrap;
+        background: #f8f8f8;
+        padding: 1rem;
+        border-radius: 8px;
+        border: 1px solid #eee;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 1rem;
+      }
+      th,
+      td {
+        border: 1px solid #e5e5e5;
+        padding: 0.5rem;
+        text-align: left;
+      }
+      th {
+        background: #fafafa;
+      }
+      .note {
+        color: #666;
+        font-size: 0.9rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>EDEFI – Mini web (GitHub Pages)</h1>
+    <p class="note">
+      Los datos se actualizan automáticamente vía GitHub Actions. Si acabás de
+      activar el repo, ejecutá el workflow manualmente una vez.
+    </p>
+
+    <fieldset>
+      <legend>Consulta de partido (A vs B)</legend>
+      <div class="row">
+        <div>
+          <label>Equipo A (local)</label>
+          <input id="home" placeholder="La Rural" />
+        </div>
+        <div>
+          <label>Equipo B (visitante)</label>
+          <input id="away" placeholder="Fragio" />
+        </div>
+      </div>
+      <div class="row" style="margin-top: 0.5rem">
+        <div>
+          <label>Categoría</label>
+          <input id="cat" placeholder="2017 o 17" />
+        </div>
+        <div style="display: flex; align-items: end; gap: 0.5rem">
+          <button id="btn">Buscar</button>
+          <span class="note"
+            >Si el cruce existe en orden invertido, te lo indicaremos.</span
+          >
+        </div>
+      </div>
+    </fieldset>
+
+    <pre class="result" id="out">Esperando consulta…</pre>
+
+    <h2>Top 5 – GENERAL (Anual)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Pos</th>
+          <th>Equipo</th>
+          <th>Pts Anual</th>
+          <th>Apertura</th>
+          <th>Clausura</th>
+          <th>Consistente</th>
+        </tr>
+      </thead>
+      <tbody id="top"></tbody>
+    </table>
+
+    <script>
+      const INDEX_URL = "./edefi_index.json";
+      const COMP_URL = "./comparativa_general.json";
+
+      const state = { index: null, comp: null };
+
+      function normCat(cat) {
+        const s = String(cat || "").trim();
+        if (/^20\d{2}$/.test(s)) return s.slice(-2);
+        return s;
+      }
+
+      function findMatch(idx, home, away, cat) {
+        const k1 = `${home.toLowerCase()}||${away.toLowerCase()}`;
+        const k2 = `${away.toLowerCase()}||${home.toLowerCase()}`;
+        let entry = idx.matches_by_pair?.[k1];
+        let inverted = false;
+        if (!entry) {
+          entry = idx.matches_by_pair?.[k2];
+          inverted = !!entry;
+        }
+        if (!entry) return null;
+
+        const catData = entry.categorias?.[cat] || {};
+        let local = catData.home,
+          visitante = catData.away;
+        if (inverted) [local, visitante] = [visitante, local];
+
+        const nota = inverted
+          ? "Cruce encontrado con orden invertido en el otro torneo."
+          : "Cruce exacto encontrado.";
+        return {
+          torneo: entry.torneo,
+          jornada: entry.jornada,
+          partido: entry.partido,
+          estado: entry.estado,
+          resultado: { local, visitante },
+          nota,
+        };
+      }
+
+      async function load() {
+        const [idxRes, compRes] = await Promise.all([
+          fetch(INDEX_URL),
+          fetch(COMP_URL),
+        ]);
+        state.index = await idxRes.json();
+        state.comp = await compRes.json();
+
+        // Render top 5
+        const tbody = document.getElementById("top");
+        tbody.innerHTML = "";
+        (state.comp || []).slice(0, 5).forEach((row, i) => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${i + 1}</td><td>${row.Equipo}</td><td>${
+            row.Anual
+          }</td><td>${row.Apertura}</td><td>${row.Clausura}</td><td>${
+            row.Consistente ? "✓" : "✗"
+          }</td>`;
+          tbody.appendChild(tr);
+        });
+      }
+
+      function onSearch() {
+        const home = document.getElementById("home").value.trim();
+        const away = document.getElementById("away").value.trim();
+        const cat = normCat(document.getElementById("cat").value.trim());
+        const out = document.getElementById("out");
+
+        if (!home || !away || !cat) {
+          out.textContent = "Completá A, B y categoría.";
+          return;
+        }
+        const res = findMatch(state.index, home, away, cat);
+        if (!res) {
+          out.textContent = "No se encontró el cruce solicitado.";
+          return;
+        }
+        const estado =
+          res.estado === "libre"
+            ? " (fecha libre – 3 pts admin.)"
+            : res.estado === "pendiente"
+            ? " (pendiente)"
+            : "";
+        out.textContent = `${home} vs ${away} (cat ${cat})
+Torneo: ${res.torneo} – Jornada ${res.jornada}${estado}
+Resultado: ${res.resultado.local ?? "-"} - ${res.resultado.visitante ?? "-"}
+${res.nota}`;
+      }
+
+      document.getElementById("btn").addEventListener("click", onSearch);
+
+      load().catch(() => {
+        document.getElementById("out").textContent =
+          "Aún no hay datos publicados. Ejecutá el workflow manualmente la primera vez.";
+      });
+    </script>
+  </body>
+</html>
