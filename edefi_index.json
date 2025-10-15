@@ -4835,31 +4835,38 @@
       "categorias": {
         "18": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "12": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "17": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "13": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "16": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         }
       },
       "estado": "pendiente"
@@ -4949,31 +4956,38 @@
       "categorias": {
         "18": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "12": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "17": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "13": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "16": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         }
       },
       "estado": "pendiente"
@@ -5349,11 +5363,13 @@
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         }
       },
       "estado": "normal"
@@ -5367,31 +5383,38 @@
       "categorias": {
         "18": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "12": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "17": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "13": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "16": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         }
       },
       "estado": "pendiente"
@@ -5429,7 +5452,8 @@
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         }
       },
       "estado": "normal"
@@ -5519,31 +5543,38 @@
       "categorias": {
         "18": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "12": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "17": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "13": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "16": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "p": true
         }
       },
       "estado": "pendiente"
