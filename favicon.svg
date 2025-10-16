@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .emoji { font: 38px 'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif; }
+    </style>
+  </defs>
+  <!-- Fondo círculo verde (mismo tono del tema) -->
+  <circle cx="32" cy="32" r="32" fill="#00C853"/>
+  <!-- Pelota (emoji) en blanco, centrada -->
+  <text x="32" y="36" text-anchor="middle" class="emoji" fill="#ffffff">⚽</text>
+</svg>
