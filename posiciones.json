@@ -1264,6 +1264,17 @@
             {
               "Pos": 7,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 9,
+              "G": 5,
+              "E": 0,
+              "P": 4,
+              "Np": 0,
+              "Pts": 19
+            },
+            {
+              "Pos": 8,
+              "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 8,
               "G": 4,
@@ -1273,7 +1284,7 @@
               "Pts": 16
             },
             {
-              "Pos": 8,
+              "Pos": 9,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
               "J": 9,
@@ -1284,26 +1295,15 @@
               "Pts": 16
             },
             {
-              "Pos": 9,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 8,
-              "G": 4,
-              "E": 0,
-              "P": 4,
-              "Np": 0,
-              "Pts": 16
-            },
-            {
               "Pos": 10,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 7,
+              "J": 8,
               "G": 3,
               "E": 0,
-              "P": 4,
+              "P": 5,
               "Np": 0,
-              "Pts": 13
+              "Pts": 14
             },
             {
               "Pos": 11,
@@ -1412,7 +1412,7 @@
             {
               "Pos": 7,
               "Esc": null,
-              "Equipo": "Velez Sarsfield",
+              "Equipo": "Ramon Lista",
               "J": 9,
               "G": 3,
               "E": 2,
@@ -1423,7 +1423,7 @@
             {
               "Pos": 8,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
+              "Equipo": "Velez Sarsfield",
               "J": 9,
               "G": 3,
               "E": 2,
@@ -1434,24 +1434,24 @@
             {
               "Pos": 9,
               "Esc": null,
-              "Equipo": "Ramon Lista",
+              "Equipo": "Juv. de Castelar",
+              "J": 9,
+              "G": 3,
+              "E": 2,
+              "P": 4,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 10,
+              "Esc": null,
+              "Equipo": "M. Auxiliadora",
               "J": 8,
               "G": 2,
               "E": 2,
               "P": 4,
               "Np": 0,
               "Pts": 14
-            },
-            {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 7,
-              "G": 2,
-              "E": 2,
-              "P": 3,
-              "Np": 0,
-              "Pts": 13
             },
             {
               "Pos": 11,
@@ -1560,6 +1560,17 @@
             {
               "Pos": 7,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 9,
+              "G": 4,
+              "E": 1,
+              "P": 4,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 8,
+              "Esc": null,
               "Equipo": "Fragio",
               "J": 9,
               "G": 3,
@@ -1569,7 +1580,7 @@
               "Pts": 16
             },
             {
-              "Pos": 8,
+              "Pos": 9,
               "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 8,
@@ -1580,7 +1591,7 @@
               "Pts": 16
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 8,
@@ -1589,17 +1600,6 @@
               "P": 4,
               "Np": 0,
               "Pts": 16
-            },
-            {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 8,
-              "G": 3,
-              "E": 1,
-              "P": 4,
-              "Np": 0,
-              "Pts": 15
             },
             {
               "Pos": 11,
@@ -1616,12 +1616,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 7,
+              "J": 8,
               "G": 2,
               "E": 1,
-              "P": 4,
+              "P": 5,
               "Np": 0,
-              "Pts": 12
+              "Pts": 13
             },
             {
               "Pos": 13,
@@ -1719,6 +1719,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "M. Auxiliadora",
+              "J": 8,
+              "G": 3,
+              "E": 2,
+              "P": 3,
+              "Np": 0,
+              "Pts": 16
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 8,
               "G": 4,
@@ -1728,7 +1739,7 @@
               "Pts": 16
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 9,
@@ -1737,17 +1748,6 @@
               "P": 5,
               "Np": 0,
               "Pts": 16
-            },
-            {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 7,
-              "G": 3,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 14
             },
             {
               "Pos": 11,
@@ -1775,12 +1775,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "Ramon Lista",
-              "J": 8,
+              "J": 9,
               "G": 1,
-              "E": 1,
+              "E": 2,
               "P": 6,
               "Np": 0,
-              "Pts": 11
+              "Pts": 13
             }
           ]
         },
@@ -1867,6 +1867,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "M. Auxiliadora",
+              "J": 8,
+              "G": 4,
+              "E": 1,
+              "P": 3,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 8,
               "G": 4,
@@ -1876,26 +1887,15 @@
               "Pts": 16
             },
             {
-              "Pos": 9,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 8,
-              "G": 3,
-              "E": 1,
-              "P": 4,
-              "Np": 0,
-              "Pts": 15
-            },
-            {
               "Pos": 10,
               "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 7,
+              "Equipo": "Ramon Lista",
+              "J": 9,
               "G": 3,
               "E": 1,
-              "P": 3,
+              "P": 5,
               "Np": 0,
-              "Pts": 14
+              "Pts": 16
             },
             {
               "Pos": 11,
@@ -2037,7 +2037,7 @@
             {
               "Pos": 10,
               "Esc": null,
-              "Equipo": "Tiro Libre",
+              "Equipo": "M. Auxiliadora",
               "J": 8,
               "G": 3,
               "E": 0,
@@ -2048,24 +2048,24 @@
             {
               "Pos": 11,
               "Esc": null,
-              "Equipo": "Ramon Lista",
+              "Equipo": "Tiro Libre",
               "J": 8,
-              "G": 2,
+              "G": 3,
               "E": 0,
-              "P": 6,
+              "P": 5,
               "Np": 0,
-              "Pts": 12
+              "Pts": 14
             },
             {
               "Pos": 12,
               "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 7,
+              "Equipo": "Ramon Lista",
+              "J": 9,
               "G": 2,
               "E": 0,
-              "P": 5,
+              "P": 7,
               "Np": 0,
-              "Pts": 11
+              "Pts": 13
             },
             {
               "Pos": 13,
@@ -2141,6 +2141,17 @@
             {
               "Pos": 6,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 9,
+              "G": 5,
+              "E": 1,
+              "P": 3,
+              "Np": 0,
+              "Pts": 20
+            },
+            {
+              "Pos": 7,
+              "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 8,
               "G": 4,
@@ -2148,17 +2159,6 @@
               "P": 2,
               "Np": 0,
               "Pts": 18
-            },
-            {
-              "Pos": 7,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 8,
-              "G": 4,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 17
             },
             {
               "Pos": 8,
@@ -2219,12 +2219,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 7,
+              "J": 8,
               "G": 1,
               "E": 1,
-              "P": 5,
+              "P": 6,
               "Np": 0,
-              "Pts": 10
+              "Pts": 11
             }
           ]
         },
@@ -2322,6 +2322,17 @@
             {
               "Pos": 9,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 63,
+              "G": 23,
+              "E": 7,
+              "P": 33,
+              "Np": 0,
+              "Pts": 116
+            },
+            {
+              "Pos": 10,
+              "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 56,
               "G": 24,
@@ -2329,17 +2340,6 @@
               "P": 29,
               "Np": 0,
               "Pts": 107
-            },
-            {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 56,
-              "G": 19,
-              "E": 6,
-              "P": 31,
-              "Np": 0,
-              "Pts": 100
             },
             {
               "Pos": 11,
@@ -2356,12 +2356,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 49,
-              "G": 16,
-              "E": 6,
-              "P": 27,
+              "J": 56,
+              "G": 18,
+              "E": 7,
+              "P": 31,
               "Np": 0,
-              "Pts": 87
+              "Pts": 99
             },
             {
               "Pos": 13,
@@ -2464,6 +2464,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 22,
+              "G": 9,
+              "E": 1,
+              "P": 11,
+              "Np": 1,
+              "Pts": 40
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "Soc. Italiana HN",
               "J": 22,
               "G": 9,
@@ -2471,17 +2482,6 @@
               "P": 11,
               "Np": 2,
               "Pts": 38
-            },
-            {
-              "Pos": 9,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 21,
-              "G": 8,
-              "E": 1,
-              "P": 11,
-              "Np": 1,
-              "Pts": 37
             },
             {
               "Pos": 10,
@@ -2498,12 +2498,12 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 20,
+              "J": 21,
               "G": 5,
               "E": 0,
-              "P": 15,
+              "P": 16,
               "Np": 0,
-              "Pts": 30
+              "Pts": 31
             },
             {
               "Pos": 12,
@@ -2579,6 +2579,17 @@
             {
               "Pos": 5,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 22,
+              "G": 13,
+              "E": 3,
+              "P": 6,
+              "Np": 0,
+              "Pts": 51
+            },
+            {
+              "Pos": 6,
+              "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 22,
               "G": 13,
@@ -2586,17 +2597,6 @@
               "P": 7,
               "Np": 0,
               "Pts": 50
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 21,
-              "G": 12,
-              "E": 3,
-              "P": 6,
-              "Np": 0,
-              "Pts": 48
             },
             {
               "Pos": 7,
@@ -2657,12 +2657,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 20,
+              "J": 21,
               "G": 4,
               "E": 2,
-              "P": 14,
+              "P": 15,
               "Np": 0,
-              "Pts": 30
+              "Pts": 31
             },
             {
               "Pos": 13,
@@ -2749,22 +2749,22 @@
             {
               "Pos": 7,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 22,
+              "G": 11,
+              "E": 1,
+              "P": 10,
+              "Np": 0,
+              "Pts": 45
+            },
+            {
+              "Pos": 8,
+              "Esc": null,
               "Equipo": "Fragio",
               "J": 22,
               "G": 9,
               "E": 2,
               "P": 11,
-              "Np": 0,
-              "Pts": 42
-            },
-            {
-              "Pos": 8,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 21,
-              "G": 10,
-              "E": 1,
-              "P": 10,
               "Np": 0,
               "Pts": 42
             },
@@ -2805,12 +2805,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 20,
+              "J": 21,
               "G": 5,
               "E": 2,
-              "P": 13,
+              "P": 14,
               "Np": 0,
-              "Pts": 32
+              "Pts": 33
             },
             {
               "Pos": 13,
@@ -2886,6 +2886,17 @@
             {
               "Pos": 6,
               "Esc": null,
+              "Equipo": "M. Auxiliadora",
+              "J": 21,
+              "G": 11,
+              "E": 3,
+              "P": 7,
+              "Np": 0,
+              "Pts": 46
+            },
+            {
+              "Pos": 7,
+              "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 21,
               "G": 10,
@@ -2893,17 +2904,6 @@
               "P": 6,
               "Np": 0,
               "Pts": 46
-            },
-            {
-              "Pos": 7,
-              "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 20,
-              "G": 11,
-              "E": 2,
-              "P": 7,
-              "Np": 0,
-              "Pts": 44
             },
             {
               "Pos": 8,
@@ -2952,6 +2952,17 @@
             {
               "Pos": 12,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 22,
+              "G": 4,
+              "E": 4,
+              "P": 14,
+              "Np": 0,
+              "Pts": 34
+            },
+            {
+              "Pos": 13,
+              "Esc": null,
               "Equipo": "Juv. de Castelar",
               "J": 22,
               "G": 5,
@@ -2959,17 +2970,6 @@
               "P": 16,
               "Np": 0,
               "Pts": 33
-            },
-            {
-              "Pos": 13,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 21,
-              "G": 4,
-              "E": 3,
-              "P": 14,
-              "Np": 0,
-              "Pts": 32
             }
           ]
         },
@@ -3057,12 +3057,12 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 20,
-              "G": 10,
+              "J": 21,
+              "G": 11,
               "E": 2,
               "P": 8,
               "Np": 0,
-              "Pts": 42
+              "Pts": 45
             },
             {
               "Pos": 9,
@@ -3079,12 +3079,12 @@
               "Pos": 10,
               "Esc": null,
               "Equipo": "Ramon Lista",
-              "J": 21,
+              "J": 22,
               "G": 5,
               "E": 4,
-              "P": 12,
+              "P": 13,
               "Np": 0,
-              "Pts": 35
+              "Pts": 36
             },
             {
               "Pos": 11,
@@ -3238,23 +3238,23 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 20,
-              "G": 8,
+              "J": 21,
+              "G": 9,
               "E": 1,
               "P": 11,
               "Np": 0,
-              "Pts": 37
+              "Pts": 40
             },
             {
               "Pos": 12,
               "Esc": null,
               "Equipo": "Ramon Lista",
-              "J": 21,
+              "J": 22,
               "G": 4,
               "E": 0,
-              "P": 17,
+              "P": 18,
               "Np": 0,
-              "Pts": 29
+              "Pts": 30
             },
             {
               "Pos": 13,
@@ -3330,6 +3330,17 @@
             {
               "Pos": 6,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 22,
+              "G": 13,
+              "E": 2,
+              "P": 7,
+              "Np": 0,
+              "Pts": 50
+            },
+            {
+              "Pos": 7,
+              "Esc": null,
               "Equipo": "Fragio",
               "J": 22,
               "G": 13,
@@ -3337,17 +3348,6 @@
               "P": 8,
               "Np": 0,
               "Pts": 49
-            },
-            {
-              "Pos": 7,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 21,
-              "G": 12,
-              "E": 2,
-              "P": 7,
-              "Np": 0,
-              "Pts": 47
             },
             {
               "Pos": 8,
@@ -3408,12 +3408,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 20,
+              "J": 21,
               "G": 2,
               "E": 2,
-              "P": 16,
+              "P": 17,
               "Np": 0,
-              "Pts": 26
+              "Pts": 27
             }
           ]
         },
@@ -3511,6 +3511,17 @@
             {
               "Pos": 9,
               "Esc": null,
+              "Equipo": "Ramon Lista",
+              "J": 154,
+              "G": 59,
+              "E": 15,
+              "P": 79,
+              "Np": 1,
+              "Pts": 286
+            },
+            {
+              "Pos": 10,
+              "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 147,
               "G": 61,
@@ -3520,7 +3531,7 @@
               "Pts": 284
             },
             {
-              "Pos": 10,
+              "Pos": 11,
               "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 147,
@@ -3531,26 +3542,15 @@
               "Pts": 277
             },
             {
-              "Pos": 11,
-              "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 147,
-              "G": 55,
-              "E": 14,
-              "P": 77,
-              "Np": 1,
-              "Pts": 270
-            },
-            {
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 140,
-              "G": 45,
-              "E": 11,
-              "P": 84,
+              "J": 147,
+              "G": 47,
+              "E": 12,
+              "P": 88,
               "Np": 0,
-              "Pts": 241
+              "Pts": 253
             },
             {
               "Pos": 13,

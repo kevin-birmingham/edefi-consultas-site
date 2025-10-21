@@ -4955,42 +4955,35 @@
       "equipo_visitante": "Ramon Lista",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 10
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 3
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 1
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 4
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "la rural||fragio": {
       "torneo": "clausura",

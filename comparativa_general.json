@@ -56,6 +56,13 @@
     "Consistente": true
   },
   {
+    "Equipo": "Ramon Lista",
+    "Apertura": 170,
+    "Clausura": 116,
+    "Anual": 286,
+    "Consistente": true
+  },
+  {
     "Equipo": "Def. San Justo",
     "Apertura": 184,
     "Clausura": 100,
@@ -70,17 +77,10 @@
     "Consistente": true
   },
   {
-    "Equipo": "Ramon Lista",
-    "Apertura": 170,
-    "Clausura": 100,
-    "Anual": 270,
-    "Consistente": true
-  },
-  {
     "Equipo": "M. Auxiliadora",
     "Apertura": 154,
-    "Clausura": 87,
-    "Anual": 241,
+    "Clausura": 99,
+    "Anual": 253,
     "Consistente": true
   },
   {
