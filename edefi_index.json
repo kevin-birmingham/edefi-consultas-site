@@ -4834,42 +4834,35 @@
       "equipo_visitante": "Academia Leloir",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 0
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 12
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 5,
+          "away": 1
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 6
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 3
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "s. f. soler||u. de matanza": {
       "torneo": "clausura",
@@ -5375,42 +5368,35 @@
       "equipo_visitante": "U. de Matanza",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 13
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 6,
+          "away": 11
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 5,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 4
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 3
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 2
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "f. de belgrano||velez sarsfield": {
       "torneo": "clausura",
@@ -5535,42 +5521,35 @@
       "equipo_visitante": "Tiro Libre",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 3
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 5
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 7
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 6
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 3
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "la rural||libre": {
       "torneo": "clausura",

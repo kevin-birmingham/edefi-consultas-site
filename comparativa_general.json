@@ -14,10 +14,24 @@
     "Consistente": true
   },
   {
+    "Equipo": "Academia Leloir",
+    "Apertura": 210,
+    "Clausura": 142,
+    "Anual": 352,
+    "Consistente": true
+  },
+  {
     "Equipo": "La Rural",
     "Apertura": 205,
     "Clausura": 146,
     "Anual": 351,
+    "Consistente": true
+  },
+  {
+    "Equipo": "U. de Matanza",
+    "Apertura": 204,
+    "Clausura": 139,
+    "Anual": 343,
     "Consistente": true
   },
   {
@@ -28,23 +42,9 @@
     "Consistente": true
   },
   {
-    "Equipo": "Academia Leloir",
-    "Apertura": 210,
-    "Clausura": 125,
-    "Anual": 335,
-    "Consistente": true
-  },
-  {
     "Equipo": "Fragio",
     "Apertura": 191,
     "Clausura": 137,
-    "Anual": 328,
-    "Consistente": true
-  },
-  {
-    "Equipo": "U. de Matanza",
-    "Apertura": 204,
-    "Clausura": 124,
     "Anual": 328,
     "Consistente": true
   },
@@ -56,6 +56,20 @@
     "Consistente": true
   },
   {
+    "Equipo": "Def. San Justo",
+    "Apertura": 184,
+    "Clausura": 113,
+    "Anual": 297,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Tiro Libre",
+    "Apertura": 170,
+    "Clausura": 126,
+    "Anual": 296,
+    "Consistente": true
+  },
+  {
     "Equipo": "Ramon Lista",
     "Apertura": 170,
     "Clausura": 116,
@@ -63,31 +77,17 @@
     "Consistente": true
   },
   {
-    "Equipo": "Def. San Justo",
-    "Apertura": 184,
-    "Clausura": 100,
-    "Anual": 284,
-    "Consistente": true
-  },
-  {
-    "Equipo": "Tiro Libre",
-    "Apertura": 170,
-    "Clausura": 107,
-    "Anual": 277,
-    "Consistente": true
-  },
-  {
     "Equipo": "M. Auxiliadora",
     "Apertura": 154,
-    "Clausura": 99,
-    "Anual": 253,
+    "Clausura": 108,
+    "Anual": 262,
     "Consistente": true
   },
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 131,
-    "Clausura": 80,
-    "Anual": 211,
+    "Clausura": 91,
+    "Anual": 222,
     "Consistente": true
   }
 ]
