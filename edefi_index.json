@@ -5348,14 +5348,12 @@
           "away": 1
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 1
         }
       },
       "estado": "normal"
@@ -5430,9 +5428,8 @@
           "away": 12
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 7
         }
       },
       "estado": "normal"

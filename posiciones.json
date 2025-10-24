@@ -1960,24 +1960,24 @@
             {
               "Pos": 3,
               "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 8,
+              "Equipo": "Academia Leloir",
+              "J": 9,
               "G": 6,
-              "E": 1,
-              "P": 1,
+              "E": 3,
+              "P": 0,
               "Np": 0,
-              "Pts": 21
+              "Pts": 24
             },
             {
               "Pos": 4,
               "Esc": null,
-              "Equipo": "Academia Leloir",
-              "J": 8,
-              "G": 5,
-              "E": 3,
-              "P": 0,
+              "Equipo": "Soc. Italiana HN",
+              "J": 9,
+              "G": 6,
+              "E": 1,
+              "P": 2,
               "Np": 0,
-              "Pts": 21
+              "Pts": 22
             },
             {
               "Pos": 5,
@@ -2108,6 +2108,17 @@
             {
               "Pos": 3,
               "Esc": null,
+              "Equipo": "Velez Sarsfield",
+              "J": 9,
+              "G": 6,
+              "E": 2,
+              "P": 1,
+              "Np": 0,
+              "Pts": 23
+            },
+            {
+              "Pos": 4,
+              "Esc": null,
               "Equipo": "Juv. de Castelar",
               "J": 9,
               "G": 5,
@@ -2117,7 +2128,7 @@
               "Pts": 22
             },
             {
-              "Pos": 4,
+              "Pos": 5,
               "Esc": null,
               "Equipo": "Fragio",
               "J": 9,
@@ -2126,17 +2137,6 @@
               "P": 3,
               "Np": 0,
               "Pts": 21
-            },
-            {
-              "Pos": 5,
-              "Esc": null,
-              "Equipo": "Velez Sarsfield",
-              "J": 8,
-              "G": 5,
-              "E": 2,
-              "P": 1,
-              "Np": 0,
-              "Pts": 20
             },
             {
               "Pos": 6,
@@ -2163,6 +2163,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "Academia Leloir",
+              "J": 9,
+              "G": 4,
+              "E": 0,
+              "P": 5,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 9,
               "G": 3,
@@ -2172,7 +2183,7 @@
               "Pts": 16
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
               "Equipo": "S. F. Soler",
               "J": 9,
@@ -2183,37 +2194,26 @@
               "Pts": 15
             },
             {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "Academia Leloir",
-              "J": 8,
-              "G": 3,
-              "E": 0,
-              "P": 5,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
               "Pos": 11,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 8,
+              "J": 9,
               "G": 2,
               "E": 1,
-              "P": 5,
+              "P": 6,
               "Np": 0,
-              "Pts": 13
+              "Pts": 14
             },
             {
               "Pos": 12,
               "Esc": null,
               "Equipo": "F. de Belgrano",
-              "J": 8,
+              "J": 9,
               "G": 2,
               "E": 1,
-              "P": 5,
+              "P": 6,
               "Np": 0,
-              "Pts": 13
+              "Pts": 14
             },
             {
               "Pos": 13,
@@ -2235,15 +2235,26 @@
               "Pos": 1,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
-              "J": 62,
-              "G": 41,
+              "J": 63,
+              "G": 42,
               "E": 9,
               "P": 12,
               "Np": 0,
-              "Pts": 153
+              "Pts": 156
             },
             {
               "Pos": 2,
+              "Esc": null,
+              "Equipo": "Academia Leloir",
+              "J": 63,
+              "G": 40,
+              "E": 5,
+              "P": 18,
+              "Np": 0,
+              "Pts": 148
+            },
+            {
+              "Pos": 3,
               "Esc": null,
               "Equipo": "S. F. Soler",
               "J": 63,
@@ -2254,7 +2265,7 @@
               "Pts": 146
             },
             {
-              "Pos": 3,
+              "Pos": 4,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 63,
@@ -2263,17 +2274,6 @@
               "P": 19,
               "Np": 0,
               "Pts": 146
-            },
-            {
-              "Pos": 4,
-              "Esc": null,
-              "Equipo": "Academia Leloir",
-              "J": 61,
-              "G": 38,
-              "E": 5,
-              "P": 18,
-              "Np": 0,
-              "Pts": 142
             },
             {
               "Pos": 5,
@@ -2312,12 +2312,12 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 61,
+              "J": 63,
               "G": 33,
               "E": 5,
-              "P": 22,
+              "P": 24,
               "Np": 1,
-              "Pts": 131
+              "Pts": 133
             },
             {
               "Pos": 9,
@@ -2367,12 +2367,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "F. de Belgrano",
-              "J": 62,
+              "J": 63,
               "G": 14,
               "E": 2,
-              "P": 45,
+              "P": 46,
               "Np": 1,
-              "Pts": 91
+              "Pts": 92
             }
           ]
         }
@@ -3138,6 +3138,17 @@
             {
               "Pos": 2,
               "Esc": null,
+              "Equipo": "Academia Leloir",
+              "J": 22,
+              "G": 14,
+              "E": 5,
+              "P": 3,
+              "Np": 0,
+              "Pts": 55
+            },
+            {
+              "Pos": 3,
+              "Esc": null,
               "Equipo": "S. F. Soler",
               "J": 22,
               "G": 15,
@@ -3147,7 +3158,7 @@
               "Pts": 54
             },
             {
-              "Pos": 3,
+              "Pos": 4,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 22,
@@ -3158,26 +3169,15 @@
               "Pts": 54
             },
             {
-              "Pos": 4,
-              "Esc": null,
-              "Equipo": "Academia Leloir",
-              "J": 21,
-              "G": 13,
-              "E": 5,
-              "P": 3,
-              "Np": 0,
-              "Pts": 52
-            },
-            {
               "Pos": 5,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 21,
+              "J": 22,
               "G": 13,
               "E": 3,
-              "P": 5,
+              "P": 6,
               "Np": 0,
-              "Pts": 50
+              "Pts": 51
             },
             {
               "Pos": 6,
@@ -3308,7 +3308,7 @@
             {
               "Pos": 4,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
+              "Equipo": "Velez Sarsfield",
               "J": 22,
               "G": 14,
               "E": 3,
@@ -3319,13 +3319,13 @@
             {
               "Pos": 5,
               "Esc": null,
-              "Equipo": "Velez Sarsfield",
-              "J": 21,
-              "G": 13,
+              "Equipo": "Juv. de Castelar",
+              "J": 22,
+              "G": 14,
               "E": 3,
               "P": 5,
               "Np": 0,
-              "Pts": 50
+              "Pts": 53
             },
             {
               "Pos": 6,
@@ -3353,12 +3353,12 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 21,
+              "J": 22,
               "G": 8,
               "E": 3,
-              "P": 10,
+              "P": 11,
               "Np": 0,
-              "Pts": 40
+              "Pts": 41
             },
             {
               "Pos": 9,
@@ -3386,23 +3386,23 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "Academia Leloir",
-              "J": 21,
-              "G": 5,
+              "J": 22,
+              "G": 6,
               "E": 2,
               "P": 14,
               "Np": 0,
-              "Pts": 33
+              "Pts": 36
             },
             {
               "Pos": 12,
               "Esc": null,
               "Equipo": "F. de Belgrano",
-              "J": 21,
+              "J": 22,
               "G": 5,
               "E": 2,
-              "P": 14,
+              "P": 15,
               "Np": 0,
-              "Pts": 33
+              "Pts": 34
             },
             {
               "Pos": 13,
@@ -3424,12 +3424,12 @@
               "Pos": 1,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
-              "J": 153,
-              "G": 104,
+              "J": 154,
+              "G": 105,
               "E": 19,
               "P": 30,
               "Np": 0,
-              "Pts": 380
+              "Pts": 383
             },
             {
               "Pos": 2,
@@ -3446,12 +3446,12 @@
               "Pos": 3,
               "Esc": null,
               "Equipo": "Academia Leloir",
-              "J": 152,
-              "G": 94,
+              "J": 154,
+              "G": 96,
               "E": 12,
               "P": 46,
               "Np": 0,
-              "Pts": 352
+              "Pts": 358
             },
             {
               "Pos": 4,
@@ -3501,12 +3501,12 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 152,
+              "J": 154,
               "G": 79,
               "E": 14,
-              "P": 57,
+              "P": 59,
               "Np": 2,
-              "Pts": 322
+              "Pts": 324
             },
             {
               "Pos": 9,
@@ -3556,12 +3556,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "F. de Belgrano",
-              "J": 153,
+              "J": 154,
               "G": 32,
               "E": 7,
-              "P": 112,
+              "P": 113,
               "Np": 2,
-              "Pts": 222
+              "Pts": 223
             }
           ]
         }

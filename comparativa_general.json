@@ -2,8 +2,8 @@
   {
     "Equipo": "Velez Sarsfield",
     "Apertura": 227,
-    "Clausura": 153,
-    "Anual": 380,
+    "Clausura": 156,
+    "Anual": 383,
     "Consistente": true
   },
   {
@@ -16,8 +16,8 @@
   {
     "Equipo": "Academia Leloir",
     "Apertura": 210,
-    "Clausura": 142,
-    "Anual": 352,
+    "Clausura": 148,
+    "Anual": 358,
     "Consistente": true
   },
   {
@@ -51,8 +51,8 @@
   {
     "Equipo": "Soc. Italiana HN",
     "Apertura": 191,
-    "Clausura": 131,
-    "Anual": 322,
+    "Clausura": 133,
+    "Anual": 324,
     "Consistente": true
   },
   {
@@ -86,8 +86,8 @@
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 131,
-    "Clausura": 91,
-    "Anual": 222,
+    "Clausura": 92,
+    "Anual": 223,
     "Consistente": true
   }
 ]
