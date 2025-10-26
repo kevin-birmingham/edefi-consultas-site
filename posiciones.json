@@ -1199,15 +1199,26 @@
               "Pos": 1,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 9,
-              "G": 8,
+              "J": 10,
+              "G": 9,
               "E": 1,
               "P": 0,
+              "Np": 0,
+              "Pts": 29
+            },
+            {
+              "Pos": 2,
+              "Esc": null,
+              "Equipo": "U. de Matanza",
+              "J": 10,
+              "G": 8,
+              "E": 0,
+              "P": 2,
               "Np": 0,
               "Pts": 26
             },
             {
-              "Pos": 2,
+              "Pos": 3,
               "Esc": null,
               "Equipo": "Fragio",
               "J": 9,
@@ -1218,18 +1229,18 @@
               "Pts": 25
             },
             {
-              "Pos": 3,
+              "Pos": 4,
               "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 9,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
               "G": 7,
               "E": 0,
-              "P": 2,
+              "P": 3,
               "Np": 0,
-              "Pts": 23
+              "Pts": 24
             },
             {
-              "Pos": 4,
+              "Pos": 5,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 9,
@@ -1240,7 +1251,7 @@
               "Pts": 23
             },
             {
-              "Pos": 5,
+              "Pos": 6,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 9,
@@ -1249,17 +1260,6 @@
               "P": 2,
               "Np": 0,
               "Pts": 22
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 9,
-              "G": 6,
-              "E": 0,
-              "P": 3,
-              "Np": 0,
-              "Pts": 21
             },
             {
               "Pos": 7,
@@ -1287,12 +1287,12 @@
               "Pos": 9,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 9,
+              "J": 10,
               "G": 4,
               "E": 0,
-              "P": 4,
+              "P": 5,
               "Np": 1,
-              "Pts": 16
+              "Pts": 17
             },
             {
               "Pos": 10,
@@ -1309,12 +1309,12 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 9,
+              "J": 10,
               "G": 1,
               "E": 1,
-              "P": 7,
+              "P": 8,
               "Np": 0,
-              "Pts": 12
+              "Pts": 13
             },
             {
               "Pos": 12,
@@ -1357,18 +1357,18 @@
             {
               "Pos": 2,
               "Esc": null,
-              "Equipo": "La Rural",
-              "J": 9,
-              "G": 8,
-              "E": 0,
-              "P": 1,
+              "Equipo": "S. F. Soler",
+              "J": 10,
+              "G": 7,
+              "E": 1,
+              "P": 2,
               "Np": 0,
               "Pts": 25
             },
             {
               "Pos": 3,
               "Esc": null,
-              "Equipo": "Fragio",
+              "Equipo": "La Rural",
               "J": 9,
               "G": 8,
               "E": 0,
@@ -1379,27 +1379,38 @@
             {
               "Pos": 4,
               "Esc": null,
-              "Equipo": "Tiro Libre",
+              "Equipo": "Fragio",
               "J": 9,
-              "G": 6,
-              "E": 2,
+              "G": 8,
+              "E": 0,
               "P": 1,
               "Np": 0,
-              "Pts": 23
+              "Pts": 25
             },
             {
               "Pos": 5,
               "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 9,
+              "Equipo": "Tiro Libre",
+              "J": 10,
               "G": 6,
-              "E": 1,
+              "E": 2,
               "P": 2,
               "Np": 0,
-              "Pts": 22
+              "Pts": 24
             },
             {
               "Pos": 6,
+              "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
+              "G": 4,
+              "E": 2,
+              "P": 4,
+              "Np": 0,
+              "Pts": 20
+            },
+            {
+              "Pos": 7,
               "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 9,
@@ -1410,7 +1421,7 @@
               "Pts": 18
             },
             {
-              "Pos": 7,
+              "Pos": 8,
               "Esc": null,
               "Equipo": "Ramon Lista",
               "J": 9,
@@ -1421,7 +1432,7 @@
               "Pts": 17
             },
             {
-              "Pos": 8,
+              "Pos": 9,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 9,
@@ -1432,18 +1443,29 @@
               "Pts": 17
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 9,
-              "G": 3,
-              "E": 2,
-              "P": 4,
+              "Equipo": "U. de Matanza",
+              "J": 10,
+              "G": 2,
+              "E": 1,
+              "P": 7,
               "Np": 0,
-              "Pts": 17
+              "Pts": 15
             },
             {
-              "Pos": 10,
+              "Pos": 11,
+              "Esc": null,
+              "Equipo": "Soc. Italiana HN",
+              "J": 10,
+              "G": 2,
+              "E": 1,
+              "P": 7,
+              "Np": 0,
+              "Pts": 15
+            },
+            {
+              "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
               "J": 9,
@@ -1452,28 +1474,6 @@
               "P": 5,
               "Np": 0,
               "Pts": 15
-            },
-            {
-              "Pos": 11,
-              "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 9,
-              "G": 2,
-              "E": 1,
-              "P": 6,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
-              "Pos": 12,
-              "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 9,
-              "G": 1,
-              "E": 1,
-              "P": 7,
-              "Np": 0,
-              "Pts": 12
             },
             {
               "Pos": 13,
@@ -1494,18 +1494,18 @@
             {
               "Pos": 1,
               "Esc": null,
-              "Equipo": "Academia Leloir",
-              "J": 9,
-              "G": 8,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
+              "G": 9,
               "E": 0,
               "P": 1,
               "Np": 0,
-              "Pts": 25
+              "Pts": 28
             },
             {
               "Pos": 2,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
+              "Equipo": "Academia Leloir",
               "J": 9,
               "G": 8,
               "E": 0,
@@ -1517,15 +1517,26 @@
               "Pos": 3,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 9,
-              "G": 6,
+              "J": 10,
+              "G": 7,
               "E": 1,
               "P": 2,
+              "Np": 0,
+              "Pts": 25
+            },
+            {
+              "Pos": 4,
+              "Esc": null,
+              "Equipo": "Tiro Libre",
+              "J": 10,
+              "G": 6,
+              "E": 0,
+              "P": 4,
               "Np": 0,
               "Pts": 22
             },
             {
-              "Pos": 4,
+              "Pos": 5,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 9,
@@ -1536,7 +1547,7 @@
               "Pts": 21
             },
             {
-              "Pos": 5,
+              "Pos": 6,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 9,
@@ -1547,42 +1558,31 @@
               "Pts": 21
             },
             {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 9,
-              "G": 4,
-              "E": 3,
-              "P": 2,
-              "Np": 0,
-              "Pts": 20
-            },
-            {
               "Pos": 7,
               "Esc": null,
-              "Equipo": "Tiro Libre",
-              "J": 9,
-              "G": 5,
-              "E": 0,
-              "P": 4,
+              "Equipo": "S. F. Soler",
+              "J": 10,
+              "G": 4,
+              "E": 3,
+              "P": 3,
               "Np": 0,
-              "Pts": 19
+              "Pts": 21
             },
             {
               "Pos": 8,
               "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 9,
+              "Equipo": "U. de Matanza",
+              "J": 10,
               "G": 4,
               "E": 1,
-              "P": 4,
+              "P": 5,
               "Np": 0,
-              "Pts": 18
+              "Pts": 19
             },
             {
               "Pos": 9,
               "Esc": null,
-              "Equipo": "U. de Matanza",
+              "Equipo": "Ramon Lista",
               "J": 9,
               "G": 4,
               "E": 1,
@@ -1654,34 +1654,34 @@
               "Pos": 2,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 9,
-              "G": 6,
+              "J": 10,
+              "G": 7,
               "E": 1,
               "P": 2,
               "Np": 0,
-              "Pts": 22
+              "Pts": 25
             },
             {
               "Pos": 3,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 9,
-              "G": 6,
+              "J": 10,
+              "G": 7,
               "E": 0,
               "P": 3,
               "Np": 0,
-              "Pts": 21
+              "Pts": 24
             },
             {
               "Pos": 4,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 9,
+              "J": 10,
               "G": 6,
               "E": 0,
-              "P": 3,
+              "P": 4,
               "Np": 0,
-              "Pts": 21
+              "Pts": 22
             },
             {
               "Pos": 5,
@@ -1719,6 +1719,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "U. de Matanza",
+              "J": 10,
+              "G": 4,
+              "E": 0,
+              "P": 6,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "M. Auxiliadora",
               "J": 9,
               "G": 3,
@@ -1728,18 +1739,18 @@
               "Pts": 17
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 9,
-              "G": 4,
-              "E": 0,
-              "P": 5,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
+              "G": 3,
+              "E": 1,
+              "P": 6,
               "Np": 0,
               "Pts": 17
             },
             {
-              "Pos": 10,
+              "Pos": 11,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 9,
@@ -1750,7 +1761,7 @@
               "Pts": 16
             },
             {
-              "Pos": 11,
+              "Pos": 12,
               "Esc": null,
               "Equipo": "F. de Belgrano",
               "J": 9,
@@ -1759,17 +1770,6 @@
               "P": 5,
               "Np": 0,
               "Pts": 16
-            },
-            {
-              "Pos": 12,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 9,
-              "G": 2,
-              "E": 1,
-              "P": 6,
-              "Np": 0,
-              "Pts": 14
             },
             {
               "Pos": 13,
@@ -1791,12 +1791,12 @@
               "Pos": 1,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 9,
-              "G": 8,
+              "J": 10,
+              "G": 9,
               "E": 0,
               "P": 1,
               "Np": 0,
-              "Pts": 25
+              "Pts": 28
             },
             {
               "Pos": 2,
@@ -1813,15 +1813,26 @@
               "Pos": 3,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 9,
+              "J": 10,
               "G": 7,
               "E": 1,
-              "P": 1,
+              "P": 2,
+              "Np": 0,
+              "Pts": 25
+            },
+            {
+              "Pos": 4,
+              "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
+              "G": 6,
+              "E": 2,
+              "P": 2,
               "Np": 0,
               "Pts": 24
             },
             {
-              "Pos": 4,
+              "Pos": 5,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 9,
@@ -1832,18 +1843,18 @@
               "Pts": 23
             },
             {
-              "Pos": 5,
+              "Pos": 6,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 9,
+              "Equipo": "S. F. Soler",
+              "J": 10,
               "G": 5,
-              "E": 2,
-              "P": 2,
+              "E": 1,
+              "P": 4,
               "Np": 0,
               "Pts": 21
             },
             {
-              "Pos": 6,
+              "Pos": 7,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 9,
@@ -1854,7 +1865,7 @@
               "Pts": 21
             },
             {
-              "Pos": 7,
+              "Pos": 8,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
               "J": 9,
@@ -1865,26 +1876,15 @@
               "Pts": 19
             },
             {
-              "Pos": 8,
-              "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 9,
-              "G": 4,
-              "E": 1,
-              "P": 4,
-              "Np": 0,
-              "Pts": 18
-            },
-            {
               "Pos": 9,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 9,
+              "J": 10,
               "G": 4,
               "E": 1,
-              "P": 4,
+              "P": 5,
               "Np": 0,
-              "Pts": 18
+              "Pts": 19
             },
             {
               "Pos": 10,
@@ -1938,6 +1938,17 @@
             {
               "Pos": 1,
               "Esc": null,
+              "Equipo": "S. F. Soler",
+              "J": 10,
+              "G": 8,
+              "E": 1,
+              "P": 1,
+              "Np": 0,
+              "Pts": 27
+            },
+            {
+              "Pos": 2,
+              "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 9,
               "G": 7,
@@ -1947,18 +1958,18 @@
               "Pts": 25
             },
             {
-              "Pos": 2,
+              "Pos": 3,
               "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 9,
+              "Equipo": "Soc. Italiana HN",
+              "J": 10,
               "G": 7,
               "E": 1,
-              "P": 1,
+              "P": 2,
               "Np": 0,
-              "Pts": 24
+              "Pts": 25
             },
             {
-              "Pos": 3,
+              "Pos": 4,
               "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 9,
@@ -1969,37 +1980,26 @@
               "Pts": 24
             },
             {
-              "Pos": 4,
+              "Pos": 5,
               "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 9,
-              "G": 6,
-              "E": 1,
-              "P": 2,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
+              "G": 5,
+              "E": 2,
+              "P": 3,
               "Np": 0,
               "Pts": 22
             },
             {
-              "Pos": 5,
-              "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 9,
-              "G": 5,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 20
-            },
-            {
               "Pos": 6,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 9,
-              "G": 4,
-              "E": 2,
-              "P": 3,
+              "Equipo": "U. de Matanza",
+              "J": 10,
+              "G": 5,
+              "E": 1,
+              "P": 4,
               "Np": 0,
-              "Pts": 19
+              "Pts": 21
             },
             {
               "Pos": 7,
@@ -2015,6 +2015,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "Tiro Libre",
+              "J": 10,
+              "G": 4,
+              "E": 0,
+              "P": 6,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "La Rural",
               "J": 9,
               "G": 3,
@@ -2024,7 +2035,7 @@
               "Pts": 18
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
               "Equipo": "Fragio",
               "J": 9,
@@ -2033,17 +2044,6 @@
               "P": 4,
               "Np": 0,
               "Pts": 18
-            },
-            {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "Tiro Libre",
-              "J": 9,
-              "G": 4,
-              "E": 0,
-              "P": 5,
-              "Np": 0,
-              "Pts": 17
             },
             {
               "Pos": 11,
@@ -2086,6 +2086,17 @@
             {
               "Pos": 1,
               "Esc": null,
+              "Equipo": "U. de Matanza",
+              "J": 10,
+              "G": 7,
+              "E": 2,
+              "P": 1,
+              "Np": 0,
+              "Pts": 26
+            },
+            {
+              "Pos": 2,
+              "Esc": null,
               "Equipo": "La Rural",
               "J": 9,
               "G": 8,
@@ -2095,18 +2106,18 @@
               "Pts": 26
             },
             {
-              "Pos": 2,
+              "Pos": 3,
               "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 9,
+              "Equipo": "Juv. de Castelar",
+              "J": 10,
               "G": 6,
-              "E": 2,
+              "E": 3,
               "P": 1,
               "Np": 0,
-              "Pts": 23
+              "Pts": 25
             },
             {
-              "Pos": 3,
+              "Pos": 4,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 9,
@@ -2115,17 +2126,6 @@
               "P": 1,
               "Np": 0,
               "Pts": 23
-            },
-            {
-              "Pos": 4,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 9,
-              "G": 5,
-              "E": 3,
-              "P": 1,
-              "Np": 0,
-              "Pts": 22
             },
             {
               "Pos": 5,
@@ -2163,6 +2163,17 @@
             {
               "Pos": 8,
               "Esc": null,
+              "Equipo": "S. F. Soler",
+              "J": 10,
+              "G": 4,
+              "E": 0,
+              "P": 6,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 9,
+              "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 9,
               "G": 4,
@@ -2172,37 +2183,26 @@
               "Pts": 17
             },
             {
-              "Pos": 9,
-              "Esc": null,
-              "Equipo": "Tiro Libre",
-              "J": 9,
-              "G": 3,
-              "E": 1,
-              "P": 5,
-              "Np": 0,
-              "Pts": 16
-            },
-            {
               "Pos": 10,
               "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 9,
+              "Equipo": "Tiro Libre",
+              "J": 10,
               "G": 3,
-              "E": 0,
+              "E": 1,
               "P": 6,
               "Np": 0,
-              "Pts": 15
+              "Pts": 17
             },
             {
               "Pos": 11,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 9,
+              "J": 10,
               "G": 2,
               "E": 1,
-              "P": 6,
+              "P": 7,
               "Np": 0,
-              "Pts": 14
+              "Pts": 15
             },
             {
               "Pos": 12,
@@ -2234,6 +2234,28 @@
             {
               "Pos": 1,
               "Esc": null,
+              "Equipo": "S. F. Soler",
+              "J": 70,
+              "G": 43,
+              "E": 7,
+              "P": 20,
+              "Np": 0,
+              "Pts": 163
+            },
+            {
+              "Pos": 2,
+              "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 70,
+              "G": 40,
+              "E": 10,
+              "P": 20,
+              "Np": 0,
+              "Pts": 160
+            },
+            {
+              "Pos": 3,
+              "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 63,
               "G": 42,
@@ -2243,7 +2265,29 @@
               "Pts": 156
             },
             {
-              "Pos": 2,
+              "Pos": 4,
+              "Esc": null,
+              "Equipo": "U. de Matanza",
+              "J": 70,
+              "G": 37,
+              "E": 6,
+              "P": 27,
+              "Np": 0,
+              "Pts": 150
+            },
+            {
+              "Pos": 5,
+              "Esc": null,
+              "Equipo": "Soc. Italiana HN",
+              "J": 70,
+              "G": 38,
+              "E": 5,
+              "P": 26,
+              "Np": 1,
+              "Pts": 150
+            },
+            {
+              "Pos": 6,
               "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 63,
@@ -2254,18 +2298,7 @@
               "Pts": 148
             },
             {
-              "Pos": 3,
-              "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 63,
-              "G": 38,
-              "E": 7,
-              "P": 18,
-              "Np": 0,
-              "Pts": 146
-            },
-            {
-              "Pos": 4,
+              "Pos": 7,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 63,
@@ -2276,29 +2309,7 @@
               "Pts": 146
             },
             {
-              "Pos": 5,
-              "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 63,
-              "G": 35,
-              "E": 6,
-              "P": 22,
-              "Np": 0,
-              "Pts": 139
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 63,
-              "G": 33,
-              "E": 10,
-              "P": 20,
-              "Np": 0,
-              "Pts": 139
-            },
-            {
-              "Pos": 7,
+              "Pos": 8,
               "Esc": null,
               "Equipo": "Fragio",
               "J": 63,
@@ -2309,26 +2320,15 @@
               "Pts": 137
             },
             {
-              "Pos": 8,
-              "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 63,
-              "G": 33,
-              "E": 5,
-              "P": 24,
-              "Np": 1,
-              "Pts": 133
-            },
-            {
               "Pos": 9,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 63,
-              "G": 29,
+              "J": 70,
+              "G": 31,
               "E": 5,
-              "P": 29,
+              "P": 34,
               "Np": 0,
-              "Pts": 126
+              "Pts": 137
             },
             {
               "Pos": 10,
@@ -2399,26 +2399,37 @@
               "Pos": 2,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 22,
-              "G": 18,
+              "J": 23,
+              "G": 19,
               "E": 1,
               "P": 3,
               "Np": 0,
-              "Pts": 59
+              "Pts": 62
             },
             {
               "Pos": 3,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
-              "G": 18,
+              "J": 23,
+              "G": 19,
               "E": 0,
               "P": 4,
               "Np": 0,
-              "Pts": 58
+              "Pts": 61
             },
             {
               "Pos": 4,
+              "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 23,
+              "G": 17,
+              "E": 0,
+              "P": 6,
+              "Np": 0,
+              "Pts": 57
+            },
+            {
+              "Pos": 5,
               "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 22,
@@ -2427,17 +2438,6 @@
               "P": 5,
               "Np": 0,
               "Pts": 55
-            },
-            {
-              "Pos": 5,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 22,
-              "G": 16,
-              "E": 0,
-              "P": 6,
-              "Np": 0,
-              "Pts": 54
             },
             {
               "Pos": 6,
@@ -2476,23 +2476,23 @@
               "Pos": 9,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 22,
+              "J": 23,
               "G": 9,
               "E": 0,
-              "P": 11,
+              "P": 12,
               "Np": 2,
-              "Pts": 38
+              "Pts": 39
             },
             {
               "Pos": 10,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 22,
+              "J": 23,
               "G": 6,
               "E": 2,
-              "P": 13,
+              "P": 14,
               "Np": 1,
-              "Pts": 35
+              "Pts": 36
             },
             {
               "Pos": 11,
@@ -2536,12 +2536,12 @@
               "Pos": 1,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 22,
-              "G": 19,
+              "J": 23,
+              "G": 20,
               "E": 1,
               "P": 2,
               "Np": 0,
-              "Pts": 61
+              "Pts": 64
             },
             {
               "Pos": 2,
@@ -2602,12 +2602,12 @@
               "Pos": 7,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 22,
+              "J": 23,
               "G": 12,
               "E": 2,
-              "P": 8,
+              "P": 9,
               "Np": 0,
-              "Pts": 48
+              "Pts": 49
             },
             {
               "Pos": 8,
@@ -2624,34 +2624,34 @@
               "Pos": 9,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 22,
-              "G": 8,
+              "J": 23,
+              "G": 9,
               "E": 2,
               "P": 12,
               "Np": 0,
-              "Pts": 40
+              "Pts": 43
             },
             {
               "Pos": 10,
               "Esc": null,
               "Equipo": "Juv. de Castelar",
-              "J": 22,
-              "G": 8,
+              "J": 23,
+              "G": 9,
               "E": 2,
               "P": 12,
               "Np": 0,
-              "Pts": 40
+              "Pts": 43
             },
             {
               "Pos": 11,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
+              "J": 23,
               "G": 6,
               "E": 1,
-              "P": 15,
+              "P": 16,
               "Np": 0,
-              "Pts": 35
+              "Pts": 36
             },
             {
               "Pos": 12,
@@ -2695,12 +2695,12 @@
               "Pos": 2,
               "Esc": null,
               "Equipo": "Juv. de Castelar",
-              "J": 22,
-              "G": 16,
+              "J": 23,
+              "G": 17,
               "E": 4,
               "P": 2,
               "Np": 0,
-              "Pts": 58
+              "Pts": 61
             },
             {
               "Pos": 3,
@@ -2717,15 +2717,26 @@
               "Pos": 4,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 22,
+              "J": 23,
               "G": 14,
               "E": 3,
-              "P": 5,
+              "P": 6,
               "Np": 0,
-              "Pts": 53
+              "Pts": 54
             },
             {
               "Pos": 5,
+              "Esc": null,
+              "Equipo": "Soc. Italiana HN",
+              "J": 23,
+              "G": 13,
+              "E": 3,
+              "P": 7,
+              "Np": 0,
+              "Pts": 52
+            },
+            {
+              "Pos": 6,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 22,
@@ -2736,31 +2747,20 @@
               "Pts": 49
             },
             {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 22,
-              "G": 12,
-              "E": 3,
-              "P": 7,
-              "Np": 0,
-              "Pts": 49
-            },
-            {
               "Pos": 7,
               "Esc": null,
-              "Equipo": "Ramon Lista",
-              "J": 22,
-              "G": 11,
+              "Equipo": "Tiro Libre",
+              "J": 23,
+              "G": 12,
               "E": 1,
               "P": 10,
               "Np": 0,
-              "Pts": 45
+              "Pts": 48
             },
             {
               "Pos": 8,
               "Esc": null,
-              "Equipo": "Tiro Libre",
+              "Equipo": "Ramon Lista",
               "J": 22,
               "G": 11,
               "E": 1,
@@ -2794,12 +2794,12 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
+              "J": 23,
               "G": 6,
               "E": 2,
-              "P": 14,
+              "P": 15,
               "Np": 0,
-              "Pts": 36
+              "Pts": 37
             },
             {
               "Pos": 12,
@@ -2854,26 +2854,48 @@
               "Pos": 3,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 22,
+              "J": 23,
               "G": 14,
               "E": 1,
-              "P": 7,
+              "P": 8,
               "Np": 0,
-              "Pts": 51
+              "Pts": 52
             },
             {
               "Pos": 4,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
+              "J": 23,
               "G": 13,
               "E": 2,
-              "P": 7,
+              "P": 8,
+              "Np": 0,
+              "Pts": 51
+            },
+            {
+              "Pos": 5,
+              "Esc": null,
+              "Equipo": "Soc. Italiana HN",
+              "J": 23,
+              "G": 12,
+              "E": 3,
+              "P": 8,
               "Np": 0,
               "Pts": 50
             },
             {
-              "Pos": 5,
+              "Pos": 6,
+              "Esc": null,
+              "Equipo": "Tiro Libre",
+              "J": 23,
+              "G": 11,
+              "E": 4,
+              "P": 8,
+              "Np": 0,
+              "Pts": 49
+            },
+            {
+              "Pos": 7,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 22,
@@ -2884,7 +2906,7 @@
               "Pts": 49
             },
             {
-              "Pos": 6,
+              "Pos": 8,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
               "J": 22,
@@ -2893,28 +2915,6 @@
               "P": 8,
               "Np": 0,
               "Pts": 47
-            },
-            {
-              "Pos": 7,
-              "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 22,
-              "G": 11,
-              "E": 3,
-              "P": 8,
-              "Np": 0,
-              "Pts": 47
-            },
-            {
-              "Pos": 8,
-              "Esc": null,
-              "Equipo": "Tiro Libre",
-              "J": 22,
-              "G": 10,
-              "E": 4,
-              "P": 8,
-              "Np": 0,
-              "Pts": 46
             },
             {
               "Pos": 9,
@@ -2952,6 +2952,17 @@
             {
               "Pos": 12,
               "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 23,
+              "G": 6,
+              "E": 1,
+              "P": 16,
+              "Np": 0,
+              "Pts": 36
+            },
+            {
+              "Pos": 13,
+              "Esc": null,
               "Equipo": "Ramon Lista",
               "J": 22,
               "G": 4,
@@ -2959,17 +2970,6 @@
               "P": 14,
               "Np": 0,
               "Pts": 34
-            },
-            {
-              "Pos": 13,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 22,
-              "G": 5,
-              "E": 1,
-              "P": 16,
-              "Np": 0,
-              "Pts": 33
             }
           ]
         },
@@ -2991,37 +2991,48 @@
               "Pos": 2,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 22,
-              "G": 18,
+              "J": 23,
+              "G": 19,
               "E": 0,
               "P": 4,
               "Np": 0,
-              "Pts": 58
+              "Pts": 61
             },
             {
               "Pos": 3,
               "Esc": null,
               "Equipo": "Juv. de Castelar",
-              "J": 22,
-              "G": 17,
+              "J": 23,
+              "G": 18,
               "E": 2,
               "P": 3,
               "Np": 0,
-              "Pts": 58
+              "Pts": 61
             },
             {
               "Pos": 4,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
+              "J": 23,
               "G": 16,
               "E": 2,
-              "P": 4,
+              "P": 5,
               "Np": 0,
-              "Pts": 56
+              "Pts": 57
             },
             {
               "Pos": 5,
+              "Esc": null,
+              "Equipo": "S. F. Soler",
+              "J": 23,
+              "G": 14,
+              "E": 1,
+              "P": 8,
+              "Np": 0,
+              "Pts": 52
+            },
+            {
+              "Pos": 6,
               "Esc": null,
               "Equipo": "La Rural",
               "J": 22,
@@ -3030,17 +3041,6 @@
               "P": 7,
               "Np": 0,
               "Pts": 50
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 22,
-              "G": 13,
-              "E": 1,
-              "P": 8,
-              "Np": 0,
-              "Pts": 49
             },
             {
               "Pos": 7,
@@ -3068,12 +3068,12 @@
               "Pos": 9,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 22,
+              "J": 23,
               "G": 9,
               "E": 1,
-              "P": 12,
+              "P": 13,
               "Np": 0,
-              "Pts": 41
+              "Pts": 42
             },
             {
               "Pos": 10,
@@ -3138,6 +3138,17 @@
             {
               "Pos": 2,
               "Esc": null,
+              "Equipo": "S. F. Soler",
+              "J": 23,
+              "G": 16,
+              "E": 2,
+              "P": 5,
+              "Np": 0,
+              "Pts": 57
+            },
+            {
+              "Pos": 3,
+              "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 22,
               "G": 14,
@@ -3145,17 +3156,6 @@
               "P": 3,
               "Np": 0,
               "Pts": 55
-            },
-            {
-              "Pos": 3,
-              "Esc": null,
-              "Equipo": "S. F. Soler",
-              "J": 22,
-              "G": 15,
-              "E": 2,
-              "P": 5,
-              "Np": 0,
-              "Pts": 54
             },
             {
               "Pos": 4,
@@ -3172,23 +3172,23 @@
               "Pos": 5,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 22,
-              "G": 13,
+              "J": 23,
+              "G": 14,
               "E": 3,
               "P": 6,
               "Np": 0,
-              "Pts": 51
+              "Pts": 54
             },
             {
               "Pos": 6,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
+              "J": 23,
               "G": 12,
               "E": 3,
-              "P": 7,
+              "P": 8,
               "Np": 0,
-              "Pts": 49
+              "Pts": 50
             },
             {
               "Pos": 7,
@@ -3216,32 +3216,32 @@
               "Pos": 9,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 22,
+              "J": 23,
               "G": 10,
               "E": 2,
-              "P": 10,
+              "P": 11,
+              "Np": 0,
+              "Pts": 45
+            },
+            {
+              "Pos": 10,
+              "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 23,
+              "G": 9,
+              "E": 3,
+              "P": 11,
               "Np": 0,
               "Pts": 44
             },
             {
-              "Pos": 10,
+              "Pos": 11,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
               "J": 22,
               "G": 9,
               "E": 1,
               "P": 12,
-              "Np": 0,
-              "Pts": 41
-            },
-            {
-              "Pos": 11,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 22,
-              "G": 8,
-              "E": 3,
-              "P": 11,
               "Np": 0,
               "Pts": 41
             },
@@ -3287,15 +3287,26 @@
               "Pos": 2,
               "Esc": null,
               "Equipo": "U. de Matanza",
-              "J": 22,
-              "G": 17,
+              "J": 23,
+              "G": 18,
               "E": 3,
               "P": 2,
               "Np": 0,
-              "Pts": 59
+              "Pts": 62
             },
             {
               "Pos": 3,
+              "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 23,
+              "G": 15,
+              "E": 3,
+              "P": 5,
+              "Np": 0,
+              "Pts": 56
+            },
+            {
+              "Pos": 4,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 22,
@@ -3306,20 +3317,9 @@
               "Pts": 55
             },
             {
-              "Pos": 4,
-              "Esc": null,
-              "Equipo": "Velez Sarsfield",
-              "J": 22,
-              "G": 14,
-              "E": 3,
-              "P": 5,
-              "Np": 0,
-              "Pts": 53
-            },
-            {
               "Pos": 5,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
+              "Equipo": "Velez Sarsfield",
               "J": 22,
               "G": 14,
               "E": 3,
@@ -3353,34 +3353,34 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
-              "J": 22,
+              "J": 23,
               "G": 8,
               "E": 3,
-              "P": 11,
+              "P": 12,
               "Np": 0,
-              "Pts": 41
+              "Pts": 42
             },
             {
               "Pos": 9,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 22,
-              "G": 7,
+              "J": 23,
+              "G": 8,
               "E": 1,
               "P": 14,
               "Np": 0,
-              "Pts": 37
+              "Pts": 40
             },
             {
               "Pos": 10,
               "Esc": null,
               "Equipo": "Tiro Libre",
-              "J": 22,
+              "J": 23,
               "G": 6,
               "E": 3,
-              "P": 13,
+              "P": 14,
               "Np": 0,
-              "Pts": 37
+              "Pts": 38
             },
             {
               "Pos": 11,
@@ -3435,12 +3435,12 @@
               "Pos": 2,
               "Esc": null,
               "Equipo": "S. F. Soler",
-              "J": 154,
-              "G": 100,
+              "J": 161,
+              "G": 105,
               "E": 10,
-              "P": 44,
+              "P": 46,
               "Np": 0,
-              "Pts": 364
+              "Pts": 381
             },
             {
               "Pos": 3,
@@ -3456,6 +3456,28 @@
             {
               "Pos": 4,
               "Esc": null,
+              "Equipo": "Juv. de Castelar",
+              "J": 161,
+              "G": 91,
+              "E": 15,
+              "P": 55,
+              "Np": 0,
+              "Pts": 358
+            },
+            {
+              "Pos": 5,
+              "Esc": null,
+              "Equipo": "U. de Matanza",
+              "J": 161,
+              "G": 90,
+              "E": 13,
+              "P": 58,
+              "Np": 0,
+              "Pts": 354
+            },
+            {
+              "Pos": 6,
+              "Esc": null,
               "Equipo": "La Rural",
               "J": 154,
               "G": 92,
@@ -3465,29 +3487,18 @@
               "Pts": 351
             },
             {
-              "Pos": 5,
-              "Esc": null,
-              "Equipo": "U. de Matanza",
-              "J": 154,
-              "G": 88,
-              "E": 13,
-              "P": 53,
-              "Np": 0,
-              "Pts": 343
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "Juv. de Castelar",
-              "J": 154,
-              "G": 84,
-              "E": 15,
-              "P": 55,
-              "Np": 0,
-              "Pts": 337
-            },
-            {
               "Pos": 7,
+              "Esc": null,
+              "Equipo": "Soc. Italiana HN",
+              "J": 161,
+              "G": 84,
+              "E": 14,
+              "P": 61,
+              "Np": 2,
+              "Pts": 341
+            },
+            {
+              "Pos": 8,
               "Esc": null,
               "Equipo": "Fragio",
               "J": 154,
@@ -3498,18 +3509,18 @@
               "Pts": 328
             },
             {
-              "Pos": 8,
+              "Pos": 9,
               "Esc": null,
-              "Equipo": "Soc. Italiana HN",
-              "J": 154,
-              "G": 79,
-              "E": 14,
-              "P": 59,
-              "Np": 2,
-              "Pts": 324
+              "Equipo": "Tiro Libre",
+              "J": 161,
+              "G": 66,
+              "E": 15,
+              "P": 79,
+              "Np": 1,
+              "Pts": 307
             },
             {
-              "Pos": 9,
+              "Pos": 10,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 154,
@@ -3518,17 +3529,6 @@
               "P": 74,
               "Np": 0,
               "Pts": 297
-            },
-            {
-              "Pos": 10,
-              "Esc": null,
-              "Equipo": "Tiro Libre",
-              "J": 154,
-              "G": 64,
-              "E": 15,
-              "P": 74,
-              "Np": 1,
-              "Pts": 296
             },
             {
               "Pos": 11,

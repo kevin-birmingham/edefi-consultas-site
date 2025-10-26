@@ -5851,6 +5851,300 @@
         }
       },
       "estado": "normal"
+    },
+    "u. de matanza||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "12": {
+          "home": 4,
+          "away": 6
+        },
+        "17": {
+          "home": 0,
+          "away": 2
+        },
+        "13": {
+          "home": 2,
+          "away": 4
+        },
+        "16": {
+          "home": 0,
+          "away": 3
+        },
+        "15": {
+          "home": 2,
+          "away": 6
+        },
+        "14": {
+          "home": 5,
+          "away": 3
+        }
+      },
+      "estado": "normal"
+    },
+    "academia leloir||velez sarsfield": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Velez Sarsfield",
+      "categorias": {
+        "18": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "12": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "17": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "13": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "16": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "15": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "14": {
+          "home": null,
+          "away": null,
+          "p": true
+        }
+      },
+      "estado": "pendiente"
+    },
+    "def. san justo||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "Def. San Justo",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "18": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "12": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "17": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "13": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "16": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "15": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "14": {
+          "home": null,
+          "away": null,
+          "p": true
+        }
+      },
+      "estado": "pendiente"
+    },
+    "f. de belgrano||fragio": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "18": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "12": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "17": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "13": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "16": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "15": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "14": {
+          "home": null,
+          "away": null,
+          "p": true
+        }
+      },
+      "estado": "pendiente"
+    },
+    "s. f. soler||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "S. F. Soler",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "12": {
+          "home": 2,
+          "away": 1
+        },
+        "17": {
+          "home": 2,
+          "away": 3
+        },
+        "13": {
+          "home": 3,
+          "away": 5
+        },
+        "16": {
+          "home": 5,
+          "away": 4
+        },
+        "15": {
+          "home": 3,
+          "away": 1
+        },
+        "14": {
+          "home": 6,
+          "away": 1
+        }
+      },
+      "estado": "normal"
+    },
+    "juv. de castelar||libre": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "LIBRE",
+      "categorias": {
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "12": {
+          "home": 2,
+          "away": 0
+        },
+        "17": {
+          "home": 2,
+          "away": 0
+        },
+        "13": {
+          "home": 2,
+          "away": 0
+        },
+        "16": {
+          "home": 2,
+          "away": 0
+        },
+        "15": {
+          "home": 2,
+          "away": 0
+        },
+        "14": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "estado": "libre"
+    },
+    "m. auxiliadora||la rural": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "M. Auxiliadora",
+      "equipo_visitante": "La Rural",
+      "categorias": {
+        "18": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "12": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "17": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "13": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "16": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "15": {
+          "home": null,
+          "away": null,
+          "p": true
+        },
+        "14": {
+          "home": null,
+          "away": null,
+          "p": true
+        }
+      },
+      "estado": "pendiente"
     }
   }
 }

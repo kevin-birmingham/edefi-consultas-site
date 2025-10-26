@@ -9,8 +9,8 @@
   {
     "Equipo": "S. F. Soler",
     "Apertura": 218,
-    "Clausura": 146,
-    "Anual": 364,
+    "Clausura": 163,
+    "Anual": 381,
     "Consistente": true
   },
   {
@@ -21,6 +21,20 @@
     "Consistente": true
   },
   {
+    "Equipo": "Juv. de Castelar",
+    "Apertura": 198,
+    "Clausura": 160,
+    "Anual": 358,
+    "Consistente": true
+  },
+  {
+    "Equipo": "U. de Matanza",
+    "Apertura": 204,
+    "Clausura": 150,
+    "Anual": 354,
+    "Consistente": true
+  },
+  {
     "Equipo": "La Rural",
     "Apertura": 205,
     "Clausura": 146,
@@ -28,17 +42,10 @@
     "Consistente": true
   },
   {
-    "Equipo": "U. de Matanza",
-    "Apertura": 204,
-    "Clausura": 139,
-    "Anual": 343,
-    "Consistente": true
-  },
-  {
-    "Equipo": "Juv. de Castelar",
-    "Apertura": 198,
-    "Clausura": 139,
-    "Anual": 337,
+    "Equipo": "Soc. Italiana HN",
+    "Apertura": 191,
+    "Clausura": 150,
+    "Anual": 341,
     "Consistente": true
   },
   {
@@ -49,10 +56,10 @@
     "Consistente": true
   },
   {
-    "Equipo": "Soc. Italiana HN",
-    "Apertura": 191,
-    "Clausura": 133,
-    "Anual": 324,
+    "Equipo": "Tiro Libre",
+    "Apertura": 170,
+    "Clausura": 137,
+    "Anual": 307,
     "Consistente": true
   },
   {
@@ -60,13 +67,6 @@
     "Apertura": 184,
     "Clausura": 113,
     "Anual": 297,
-    "Consistente": true
-  },
-  {
-    "Equipo": "Tiro Libre",
-    "Apertura": 170,
-    "Clausura": 126,
-    "Anual": 296,
     "Consistente": true
   },
   {
