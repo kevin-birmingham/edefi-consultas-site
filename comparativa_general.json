@@ -2,8 +2,8 @@
   {
     "Equipo": "Velez Sarsfield",
     "Apertura": 227,
-    "Clausura": 156,
-    "Anual": 383,
+    "Clausura": 162,
+    "Anual": 389,
     "Consistente": true
   },
   {
@@ -16,8 +16,8 @@
   {
     "Equipo": "Academia Leloir",
     "Apertura": 210,
-    "Clausura": 148,
-    "Anual": 358,
+    "Clausura": 154,
+    "Anual": 364,
     "Consistente": true
   },
   {
@@ -51,8 +51,8 @@
   {
     "Equipo": "Fragio",
     "Apertura": 191,
-    "Clausura": 137,
-    "Anual": 328,
+    "Clausura": 144,
+    "Anual": 335,
     "Consistente": true
   },
   {
@@ -86,8 +86,8 @@
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 131,
-    "Clausura": 92,
-    "Anual": 223,
+    "Clausura": 97,
+    "Anual": 228,
     "Consistente": true
   }
 ]

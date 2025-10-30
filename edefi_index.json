@@ -5903,9 +5903,8 @@
           "p": true
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 3
         },
         "17": {
           "home": null,
@@ -5913,9 +5912,8 @@
           "p": true
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 3
         },
         "16": {
           "home": null,
@@ -5928,12 +5926,11 @@
           "p": true
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 2
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "def. san justo||ramon lista": {
       "torneo": "clausura",
@@ -5993,9 +5990,8 @@
           "p": true
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 1
         },
         "17": {
           "home": null,
@@ -6003,14 +5999,12 @@
           "p": true
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 4
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 3
         },
         "15": {
           "home": null,
@@ -6023,7 +6017,7 @@
           "p": true
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "s. f. soler||tiro libre": {
       "torneo": "clausura",
