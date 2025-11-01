@@ -2,8 +2,8 @@
   {
     "Equipo": "Velez Sarsfield",
     "Apertura": 227,
-    "Clausura": 162,
-    "Anual": 389,
+    "Clausura": 170,
+    "Anual": 397,
     "Consistente": true
   },
   {
@@ -16,8 +16,8 @@
   {
     "Equipo": "Academia Leloir",
     "Apertura": 210,
-    "Clausura": 154,
-    "Anual": 364,
+    "Clausura": 162,
+    "Anual": 372,
     "Consistente": true
   },
   {
@@ -56,6 +56,13 @@
     "Consistente": true
   },
   {
+    "Equipo": "Def. San Justo",
+    "Apertura": 184,
+    "Clausura": 128,
+    "Anual": 312,
+    "Consistente": true
+  },
+  {
     "Equipo": "Tiro Libre",
     "Apertura": 170,
     "Clausura": 137,
@@ -63,17 +70,10 @@
     "Consistente": true
   },
   {
-    "Equipo": "Def. San Justo",
-    "Apertura": 184,
-    "Clausura": 113,
-    "Anual": 297,
-    "Consistente": true
-  },
-  {
     "Equipo": "Ramon Lista",
     "Apertura": 170,
-    "Clausura": 116,
-    "Anual": 286,
+    "Clausura": 129,
+    "Anual": 299,
     "Consistente": true
   },
   {

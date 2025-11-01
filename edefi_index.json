@@ -5898,32 +5898,28 @@
       "equipo_visitante": "Velez Sarsfield",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 6
         },
         "12": {
           "home": 3,
           "away": 3
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 0
         },
         "13": {
           "home": 1,
           "away": 3
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 1
         },
         "14": {
           "home": 3,
@@ -5940,42 +5936,35 @@
       "equipo_visitante": "Ramon Lista",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 3,
+          "away": 4
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 5
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 6
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 2,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 11,
+          "away": 5
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "f. de belgrano||fragio": {
       "torneo": "clausura",
