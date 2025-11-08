@@ -5974,18 +5974,16 @@
       "equipo_visitante": "Fragio",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         },
         "12": {
           "home": 2,
           "away": 1
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 7
         },
         "13": {
           "home": 0,
@@ -5996,14 +5994,12 @@
           "away": 3
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 5
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 4,
+          "away": 8
         }
       },
       "estado": "normal"

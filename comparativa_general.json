@@ -42,17 +42,17 @@
     "Consistente": true
   },
   {
+    "Equipo": "Fragio",
+    "Apertura": 191,
+    "Clausura": 172,
+    "Anual": 363,
+    "Consistente": true
+  },
+  {
     "Equipo": "Soc. Italiana HN",
     "Apertura": 191,
     "Clausura": 168,
     "Anual": 359,
-    "Consistente": true
-  },
-  {
-    "Equipo": "Fragio",
-    "Apertura": 191,
-    "Clausura": 160,
-    "Anual": 351,
     "Consistente": true
   },
   {
@@ -86,8 +86,8 @@
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 131,
-    "Clausura": 104,
-    "Anual": 235,
+    "Clausura": 108,
+    "Anual": 239,
     "Consistente": true
   }
 ]
