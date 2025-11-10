@@ -6390,6 +6390,272 @@
         }
       },
       "estado": "normal"
+    },
+    "velez sarsfield||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "Velez Sarsfield",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "12": {
+          "home": 4,
+          "away": 4
+        },
+        "17": {
+          "home": 1,
+          "away": 1
+        },
+        "13": {
+          "home": 3,
+          "away": 1
+        },
+        "16": {
+          "home": 5,
+          "away": 2
+        },
+        "15": {
+          "home": 2,
+          "away": 1
+        },
+        "14": {
+          "home": 7,
+          "away": 1
+        }
+      },
+      "estado": "normal"
+    },
+    "u. de matanza||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "18": {
+          "home": 6,
+          "away": 1
+        },
+        "12": {
+          "home": 3,
+          "away": 3
+        },
+        "17": {
+          "home": 0,
+          "away": 5
+        },
+        "13": {
+          "home": 4,
+          "away": 4
+        },
+        "16": {
+          "home": 5,
+          "away": 1
+        },
+        "15": {
+          "home": 5,
+          "away": 2
+        },
+        "14": {
+          "home": 11,
+          "away": 6
+        }
+      },
+      "estado": "normal"
+    },
+    "academia leloir||fragio": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "18": {
+          "home": 0,
+          "away": 7
+        },
+        "12": {
+          "home": 2,
+          "away": 2
+        },
+        "17": {
+          "home": 3,
+          "away": 1
+        },
+        "13": {
+          "home": 4,
+          "away": 6
+        },
+        "16": {
+          "home": 5,
+          "away": 1
+        },
+        "15": {
+          "home": 3,
+          "away": 0
+        },
+        "14": {
+          "home": 2,
+          "away": 3
+        }
+      },
+      "estado": "normal"
+    },
+    "def. san justo||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "Def. San Justo",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "12": {
+          "home": 1,
+          "away": 7
+        },
+        "17": {
+          "home": 4,
+          "away": 2
+        },
+        "13": {
+          "home": 4,
+          "away": 6
+        },
+        "16": {
+          "home": 1,
+          "away": 5
+        },
+        "15": {
+          "home": 2,
+          "away": 4
+        },
+        "14": {
+          "home": 7,
+          "away": 3
+        }
+      },
+      "estado": "normal"
+    },
+    "f. de belgrano||libre": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "LIBRE",
+      "categorias": {
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "12": {
+          "home": 2,
+          "away": 0
+        },
+        "17": {
+          "home": 2,
+          "away": 0
+        },
+        "13": {
+          "home": 2,
+          "away": 0
+        },
+        "16": {
+          "home": 2,
+          "away": 0
+        },
+        "15": {
+          "home": 2,
+          "away": 0
+        },
+        "14": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "estado": "libre"
+    },
+    "s. f. soler||la rural": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "S. F. Soler",
+      "equipo_visitante": "La Rural",
+      "categorias": {
+        "18": {
+          "home": 8,
+          "away": 2
+        },
+        "12": {
+          "home": 10,
+          "away": 3
+        },
+        "17": {
+          "home": 13,
+          "away": 0
+        },
+        "13": {
+          "home": 3,
+          "away": 4
+        },
+        "16": {
+          "home": 2,
+          "away": 2
+        },
+        "15": {
+          "home": 1,
+          "away": 4
+        },
+        "14": {
+          "home": 1,
+          "away": 9
+        }
+      },
+      "estado": "normal"
+    },
+    "juv. de castelar||m. auxiliadora": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "M. Auxiliadora",
+      "categorias": {
+        "18": {
+          "home": 4,
+          "away": 0
+        },
+        "12": {
+          "home": 15,
+          "away": 7
+        },
+        "17": {
+          "home": 2,
+          "away": 0
+        },
+        "13": {
+          "home": 12,
+          "away": 6
+        },
+        "16": {
+          "home": 6,
+          "away": 5
+        },
+        "15": {
+          "home": 4,
+          "away": 3
+        },
+        "14": {
+          "home": 7,
+          "away": 2
+        }
+      },
+      "estado": "normal"
     }
   }
 }

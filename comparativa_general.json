@@ -2,92 +2,92 @@
   {
     "Equipo": "Velez Sarsfield",
     "Apertura": 227,
-    "Clausura": 185,
-    "Anual": 412,
+    "Clausura": 204,
+    "Anual": 431,
     "Consistente": true
   },
   {
     "Equipo": "S. F. Soler",
     "Apertura": 218,
-    "Clausura": 184,
-    "Anual": 402,
+    "Clausura": 198,
+    "Anual": 416,
     "Consistente": true
   },
   {
     "Equipo": "Academia Leloir",
     "Apertura": 210,
-    "Clausura": 179,
-    "Anual": 389,
+    "Clausura": 193,
+    "Anual": 403,
     "Consistente": true
   },
   {
     "Equipo": "Juv. de Castelar",
     "Apertura": 198,
-    "Clausura": 172,
-    "Anual": 370,
-    "Consistente": true
-  },
-  {
-    "Equipo": "La Rural",
-    "Apertura": 205,
-    "Clausura": 162,
-    "Anual": 367,
+    "Clausura": 193,
+    "Anual": 391,
     "Consistente": true
   },
   {
     "Equipo": "U. de Matanza",
     "Apertura": 204,
-    "Clausura": 163,
-    "Anual": 367,
+    "Clausura": 180,
+    "Anual": 384,
+    "Consistente": true
+  },
+  {
+    "Equipo": "La Rural",
+    "Apertura": 205,
+    "Clausura": 176,
+    "Anual": 381,
     "Consistente": true
   },
   {
     "Equipo": "Fragio",
     "Apertura": 191,
-    "Clausura": 172,
-    "Anual": 363,
+    "Clausura": 186,
+    "Anual": 377,
     "Consistente": true
   },
   {
     "Equipo": "Soc. Italiana HN",
     "Apertura": 191,
-    "Clausura": 168,
-    "Anual": 359,
+    "Clausura": 177,
+    "Anual": 368,
     "Consistente": true
   },
   {
     "Equipo": "Tiro Libre",
     "Apertura": 170,
-    "Clausura": 158,
-    "Anual": 328,
+    "Clausura": 173,
+    "Anual": 343,
     "Consistente": true
   },
   {
     "Equipo": "Def. San Justo",
     "Apertura": 184,
-    "Clausura": 140,
-    "Anual": 324,
+    "Clausura": 153,
+    "Anual": 337,
     "Consistente": true
   },
   {
     "Equipo": "Ramon Lista",
     "Apertura": 170,
-    "Clausura": 140,
-    "Anual": 310,
+    "Clausura": 151,
+    "Anual": 321,
     "Consistente": true
   },
   {
     "Equipo": "M. Auxiliadora",
     "Apertura": 154,
-    "Clausura": 118,
-    "Anual": 272,
+    "Clausura": 125,
+    "Anual": 279,
     "Consistente": true
   },
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 131,
-    "Clausura": 108,
-    "Anual": 239,
+    "Clausura": 129,
+    "Anual": 260,
     "Consistente": true
   }
 ]
