@@ -21,6 +21,13 @@
     "Consistente": true
   },
   {
+    "Equipo": "La Rural",
+    "Apertura": 205,
+    "Clausura": 196,
+    "Anual": 401,
+    "Consistente": true
+  },
+  {
     "Equipo": "Juv. de Castelar",
     "Apertura": 198,
     "Clausura": 193,
@@ -32,13 +39,6 @@
     "Apertura": 204,
     "Clausura": 180,
     "Anual": 384,
-    "Consistente": true
-  },
-  {
-    "Equipo": "La Rural",
-    "Apertura": 205,
-    "Clausura": 176,
-    "Anual": 381,
     "Consistente": true
   },
   {
@@ -79,8 +79,8 @@
   {
     "Equipo": "M. Auxiliadora",
     "Apertura": 154,
-    "Clausura": 125,
-    "Anual": 279,
+    "Clausura": 132,
+    "Anual": 286,
     "Consistente": true
   },
   {

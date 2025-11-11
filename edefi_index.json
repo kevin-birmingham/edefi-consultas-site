@@ -6088,42 +6088,35 @@
       "equipo_visitante": "La Rural",
       "categorias": {
         "18": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         },
         "12": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 5
         },
         "17": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 6
         },
         "16": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 1
         },
         "15": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 1,
+          "away": 4
         },
         "14": {
-          "home": null,
-          "away": null,
-          "p": true
+          "home": 0,
+          "away": 2
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "soc. italiana hn||m. auxiliadora": {
       "torneo": "clausura",

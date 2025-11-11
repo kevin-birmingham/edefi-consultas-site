@@ -1231,6 +1231,17 @@
             {
               "Pos": 4,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 12,
+              "G": 9,
+              "E": 0,
+              "P": 3,
+              "Np": 0,
+              "Pts": 30
+            },
+            {
+              "Pos": 5,
+              "Esc": null,
               "Equipo": "Velez Sarsfield",
               "J": 12,
               "G": 8,
@@ -1240,7 +1251,7 @@
               "Pts": 29
             },
             {
-              "Pos": 5,
+              "Pos": 6,
               "Esc": null,
               "Equipo": "Juv. de Castelar",
               "J": 12,
@@ -1249,17 +1260,6 @@
               "P": 4,
               "Np": 0,
               "Pts": 28
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 11,
-              "G": 8,
-              "E": 0,
-              "P": 3,
-              "Np": 0,
-              "Pts": 27
             },
             {
               "Pos": 7,
@@ -1298,11 +1298,11 @@
               "Pos": 10,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 11,
+              "J": 12,
               "G": 3,
               "E": 1,
               "P": 7,
-              "Np": 0,
+              "Np": 1,
               "Pts": 18
             },
             {
@@ -1357,18 +1357,18 @@
             {
               "Pos": 2,
               "Esc": null,
-              "Equipo": "S. F. Soler",
+              "Equipo": "La Rural",
               "J": 12,
-              "G": 9,
-              "E": 1,
+              "G": 10,
+              "E": 0,
               "P": 2,
               "Np": 0,
-              "Pts": 31
+              "Pts": 32
             },
             {
               "Pos": 3,
               "Esc": null,
-              "Equipo": "Fragio",
+              "Equipo": "S. F. Soler",
               "J": 12,
               "G": 9,
               "E": 1,
@@ -1379,6 +1379,17 @@
             {
               "Pos": 4,
               "Esc": null,
+              "Equipo": "Fragio",
+              "J": 12,
+              "G": 9,
+              "E": 1,
+              "P": 2,
+              "Np": 0,
+              "Pts": 31
+            },
+            {
+              "Pos": 5,
+              "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 12,
               "G": 8,
@@ -1386,17 +1397,6 @@
               "P": 2,
               "Np": 0,
               "Pts": 30
-            },
-            {
-              "Pos": 5,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 11,
-              "G": 9,
-              "E": 0,
-              "P": 2,
-              "Np": 0,
-              "Pts": 29
             },
             {
               "Pos": 6,
@@ -1456,22 +1456,22 @@
             {
               "Pos": 11,
               "Esc": null,
+              "Equipo": "M. Auxiliadora",
+              "J": 12,
+              "G": 2,
+              "E": 3,
+              "P": 7,
+              "Np": 0,
+              "Pts": 19
+            },
+            {
+              "Pos": 12,
+              "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 12,
               "G": 2,
               "E": 2,
               "P": 8,
-              "Np": 0,
-              "Pts": 18
-            },
-            {
-              "Pos": 12,
-              "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 11,
-              "G": 2,
-              "E": 3,
-              "P": 6,
               "Np": 0,
               "Pts": 18
             },
@@ -1605,23 +1605,23 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "La Rural",
-              "J": 11,
-              "G": 3,
+              "J": 12,
+              "G": 4,
               "E": 0,
               "P": 8,
               "Np": 0,
-              "Pts": 17
+              "Pts": 20
             },
             {
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 11,
+              "J": 12,
               "G": 2,
               "E": 1,
-              "P": 8,
+              "P": 9,
               "Np": 0,
-              "Pts": 16
+              "Pts": 17
             },
             {
               "Pos": 13,
@@ -1719,7 +1719,7 @@
             {
               "Pos": 8,
               "Esc": null,
-              "Equipo": "Juv. de Castelar",
+              "Equipo": "La Rural",
               "J": 12,
               "G": 5,
               "E": 1,
@@ -1730,16 +1730,27 @@
             {
               "Pos": 9,
               "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 11,
-              "G": 4,
-              "E": 2,
-              "P": 5,
+              "Equipo": "Juv. de Castelar",
+              "J": 12,
+              "G": 5,
+              "E": 1,
+              "P": 6,
               "Np": 0,
-              "Pts": 21
+              "Pts": 23
             },
             {
               "Pos": 10,
+              "Esc": null,
+              "Equipo": "M. Auxiliadora",
+              "J": 12,
+              "G": 4,
+              "E": 2,
+              "P": 6,
+              "Np": 0,
+              "Pts": 22
+            },
+            {
+              "Pos": 11,
               "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 12,
@@ -1750,7 +1761,7 @@
               "Pts": 21
             },
             {
-              "Pos": 11,
+              "Pos": 12,
               "Esc": null,
               "Equipo": "F. de Belgrano",
               "J": 12,
@@ -1759,17 +1770,6 @@
               "P": 7,
               "Np": 0,
               "Pts": 21
-            },
-            {
-              "Pos": 12,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 11,
-              "G": 4,
-              "E": 1,
-              "P": 6,
-              "Np": 0,
-              "Pts": 20
             },
             {
               "Pos": 13,
@@ -1824,12 +1824,12 @@
               "Pos": 4,
               "Esc": null,
               "Equipo": "La Rural",
-              "J": 11,
+              "J": 12,
               "G": 8,
-              "E": 1,
+              "E": 2,
               "P": 2,
               "Np": 0,
-              "Pts": 28
+              "Pts": 30
             },
             {
               "Pos": 5,
@@ -1879,12 +1879,12 @@
               "Pos": 9,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 11,
+              "J": 12,
               "G": 4,
-              "E": 2,
+              "E": 3,
               "P": 5,
               "Np": 0,
-              "Pts": 21
+              "Pts": 23
             },
             {
               "Pos": 10,
@@ -1982,6 +1982,17 @@
             {
               "Pos": 5,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 12,
+              "G": 6,
+              "E": 3,
+              "P": 3,
+              "Np": 0,
+              "Pts": 27
+            },
+            {
+              "Pos": 6,
+              "Esc": null,
               "Equipo": "Juv. de Castelar",
               "J": 12,
               "G": 6,
@@ -1991,7 +2002,7 @@
               "Pts": 26
             },
             {
-              "Pos": 6,
+              "Pos": 7,
               "Esc": null,
               "Equipo": "Def. San Justo",
               "J": 12,
@@ -2002,7 +2013,7 @@
               "Pts": 26
             },
             {
-              "Pos": 7,
+              "Pos": 8,
               "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 12,
@@ -2013,24 +2024,13 @@
               "Pts": 25
             },
             {
-              "Pos": 8,
+              "Pos": 9,
               "Esc": null,
               "Equipo": "Tiro Libre",
               "J": 12,
               "G": 6,
               "E": 0,
               "P": 6,
-              "Np": 0,
-              "Pts": 24
-            },
-            {
-              "Pos": 9,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 11,
-              "G": 5,
-              "E": 3,
-              "P": 3,
               "Np": 0,
               "Pts": 24
             },
@@ -2049,12 +2049,12 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 11,
+              "J": 12,
               "G": 3,
               "E": 0,
-              "P": 8,
+              "P": 9,
               "Np": 0,
-              "Pts": 17
+              "Pts": 18
             },
             {
               "Pos": 12,
@@ -2086,6 +2086,17 @@
             {
               "Pos": 1,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 12,
+              "G": 10,
+              "E": 2,
+              "P": 0,
+              "Np": 0,
+              "Pts": 34
+            },
+            {
+              "Pos": 2,
+              "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 12,
               "G": 9,
@@ -2093,17 +2104,6 @@
               "P": 1,
               "Np": 0,
               "Pts": 32
-            },
-            {
-              "Pos": 2,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 11,
-              "G": 9,
-              "E": 2,
-              "P": 0,
-              "Np": 0,
-              "Pts": 31
             },
             {
               "Pos": 3,
@@ -2219,12 +2219,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 11,
+              "J": 12,
               "G": 1,
               "E": 1,
-              "P": 9,
+              "P": 10,
               "Np": 0,
-              "Pts": 14
+              "Pts": 15
             }
           ]
         },
@@ -2256,6 +2256,17 @@
             {
               "Pos": 3,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 84,
+              "G": 52,
+              "E": 8,
+              "P": 24,
+              "Np": 0,
+              "Pts": 196
+            },
+            {
+              "Pos": 4,
+              "Esc": null,
               "Equipo": "Juv. de Castelar",
               "J": 84,
               "G": 49,
@@ -2265,7 +2276,7 @@
               "Pts": 193
             },
             {
-              "Pos": 4,
+              "Pos": 5,
               "Esc": null,
               "Equipo": "Academia Leloir",
               "J": 84,
@@ -2276,7 +2287,7 @@
               "Pts": 193
             },
             {
-              "Pos": 5,
+              "Pos": 6,
               "Esc": null,
               "Equipo": "Fragio",
               "J": 84,
@@ -2287,7 +2298,7 @@
               "Pts": 186
             },
             {
-              "Pos": 6,
+              "Pos": 7,
               "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 84,
@@ -2298,7 +2309,7 @@
               "Pts": 180
             },
             {
-              "Pos": 7,
+              "Pos": 8,
               "Esc": null,
               "Equipo": "Soc. Italiana HN",
               "J": 84,
@@ -2307,17 +2318,6 @@
               "P": 32,
               "Np": 1,
               "Pts": 177
-            },
-            {
-              "Pos": 8,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 77,
-              "G": 46,
-              "E": 7,
-              "P": 24,
-              "Np": 0,
-              "Pts": 176
             },
             {
               "Pos": 9,
@@ -2355,6 +2355,17 @@
             {
               "Pos": 12,
               "Esc": null,
+              "Equipo": "M. Auxiliadora",
+              "J": 84,
+              "G": 19,
+              "E": 11,
+              "P": 53,
+              "Np": 1,
+              "Pts": 132
+            },
+            {
+              "Pos": 13,
+              "Esc": null,
               "Equipo": "F. de Belgrano",
               "J": 84,
               "G": 22,
@@ -2362,17 +2373,6 @@
               "P": 59,
               "Np": 1,
               "Pts": 129
-            },
-            {
-              "Pos": 13,
-              "Esc": null,
-              "Equipo": "M. Auxiliadora",
-              "J": 77,
-              "G": 19,
-              "E": 10,
-              "P": 48,
-              "Np": 0,
-              "Pts": 125
             }
           ]
         }
@@ -2443,12 +2443,12 @@
               "Pos": 6,
               "Esc": null,
               "Equipo": "La Rural",
-              "J": 24,
-              "G": 17,
+              "J": 25,
+              "G": 18,
               "E": 0,
               "P": 7,
               "Np": 0,
-              "Pts": 58
+              "Pts": 61
             },
             {
               "Pos": 7,
@@ -2509,11 +2509,11 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 5,
               "E": 1,
               "P": 18,
-              "Np": 0,
+              "Np": 1,
               "Pts": 35
             },
             {
@@ -2557,6 +2557,17 @@
             {
               "Pos": 3,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 25,
+              "G": 18,
+              "E": 1,
+              "P": 6,
+              "Np": 0,
+              "Pts": 62
+            },
+            {
+              "Pos": 4,
+              "Esc": null,
               "Equipo": "Fragio",
               "J": 25,
               "G": 17,
@@ -2564,17 +2575,6 @@
               "P": 7,
               "Np": 0,
               "Pts": 60
-            },
-            {
-              "Pos": 4,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 24,
-              "G": 17,
-              "E": 1,
-              "P": 6,
-              "Np": 0,
-              "Pts": 59
             },
             {
               "Pos": 5,
@@ -2657,12 +2657,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 4,
               "E": 3,
-              "P": 17,
+              "P": 18,
               "Np": 0,
-              "Pts": 35
+              "Pts": 36
             },
             {
               "Pos": 13,
@@ -2783,12 +2783,12 @@
               "Pos": 10,
               "Esc": null,
               "Equipo": "La Rural",
-              "J": 24,
-              "G": 10,
+              "J": 25,
+              "G": 11,
               "E": 0,
               "P": 14,
               "Np": 0,
-              "Pts": 44
+              "Pts": 47
             },
             {
               "Pos": 11,
@@ -2805,12 +2805,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 5,
               "E": 2,
-              "P": 17,
+              "P": 18,
               "Np": 0,
-              "Pts": 36
+              "Pts": 37
             },
             {
               "Pos": 13,
@@ -2909,12 +2909,12 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 12,
               "E": 3,
-              "P": 9,
+              "P": 10,
               "Np": 0,
-              "Pts": 51
+              "Pts": 52
             },
             {
               "Pos": 9,
@@ -2931,12 +2931,12 @@
               "Pos": 10,
               "Esc": null,
               "Equipo": "La Rural",
-              "J": 24,
-              "G": 9,
+              "J": 25,
+              "G": 10,
               "E": 4,
               "P": 11,
               "Np": 0,
-              "Pts": 46
+              "Pts": 49
             },
             {
               "Pos": 11,
@@ -3035,12 +3035,12 @@
               "Pos": 6,
               "Esc": null,
               "Equipo": "La Rural",
-              "J": 24,
+              "J": 25,
               "G": 14,
-              "E": 3,
+              "E": 4,
               "P": 7,
               "Np": 0,
-              "Pts": 55
+              "Pts": 57
             },
             {
               "Pos": 7,
@@ -3057,12 +3057,12 @@
               "Pos": 8,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 11,
-              "E": 3,
+              "E": 4,
               "P": 10,
               "Np": 0,
-              "Pts": 49
+              "Pts": 51
             },
             {
               "Pos": 9,
@@ -3182,6 +3182,17 @@
             {
               "Pos": 6,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 25,
+              "G": 13,
+              "E": 4,
+              "P": 8,
+              "Np": 0,
+              "Pts": 55
+            },
+            {
+              "Pos": 7,
+              "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 25,
               "G": 13,
@@ -3189,17 +3200,6 @@
               "P": 9,
               "Np": 0,
               "Pts": 54
-            },
-            {
-              "Pos": 7,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 24,
-              "G": 12,
-              "E": 4,
-              "P": 8,
-              "Np": 0,
-              "Pts": 52
             },
             {
               "Pos": 8,
@@ -3238,12 +3238,12 @@
               "Pos": 11,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 9,
               "E": 1,
-              "P": 14,
+              "P": 15,
               "Np": 0,
-              "Pts": 43
+              "Pts": 44
             },
             {
               "Pos": 12,
@@ -3275,6 +3275,17 @@
             {
               "Pos": 1,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 25,
+              "G": 21,
+              "E": 3,
+              "P": 1,
+              "Np": 0,
+              "Pts": 70
+            },
+            {
+              "Pos": 2,
+              "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 25,
               "G": 20,
@@ -3282,17 +3293,6 @@
               "P": 2,
               "Np": 0,
               "Pts": 68
-            },
-            {
-              "Pos": 2,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 24,
-              "G": 20,
-              "E": 3,
-              "P": 1,
-              "Np": 0,
-              "Pts": 67
             },
             {
               "Pos": 3,
@@ -3408,12 +3408,12 @@
               "Pos": 13,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 24,
+              "J": 25,
               "G": 2,
               "E": 2,
-              "P": 20,
+              "P": 21,
               "Np": 0,
-              "Pts": 30
+              "Pts": 31
             }
           ]
         },
@@ -3456,6 +3456,17 @@
             {
               "Pos": 4,
               "Esc": null,
+              "Equipo": "La Rural",
+              "J": 175,
+              "G": 105,
+              "E": 16,
+              "P": 54,
+              "Np": 0,
+              "Pts": 401
+            },
+            {
+              "Pos": 5,
+              "Esc": null,
               "Equipo": "Juv. de Castelar",
               "J": 175,
               "G": 100,
@@ -3465,7 +3476,7 @@
               "Pts": 391
             },
             {
-              "Pos": 5,
+              "Pos": 6,
               "Esc": null,
               "Equipo": "U. de Matanza",
               "J": 175,
@@ -3474,17 +3485,6 @@
               "P": 63,
               "Np": 0,
               "Pts": 384
-            },
-            {
-              "Pos": 6,
-              "Esc": null,
-              "Equipo": "La Rural",
-              "J": 168,
-              "G": 99,
-              "E": 15,
-              "P": 54,
-              "Np": 0,
-              "Pts": 381
             },
             {
               "Pos": 7,
@@ -3545,12 +3545,12 @@
               "Pos": 12,
               "Esc": null,
               "Equipo": "M. Auxiliadora",
-              "J": 168,
+              "J": 175,
               "G": 48,
-              "E": 15,
-              "P": 105,
-              "Np": 0,
-              "Pts": 279
+              "E": 16,
+              "P": 110,
+              "Np": 1,
+              "Pts": 286
             },
             {
               "Pos": 13,
