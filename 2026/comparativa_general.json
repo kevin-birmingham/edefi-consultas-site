@@ -1,0 +1,93 @@
+[
+  {
+    "Equipo": "Academia Leloir",
+    "Apertura": 17,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Alvear",
+    "Apertura": 11,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Buen Ayre",
+    "Apertura": 0,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": true
+  },
+  {
+    "Equipo": "F. de Belgrano",
+    "Apertura": 0,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Fragio",
+    "Apertura": 11,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Juv. de Castelar",
+    "Apertura": 16,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "La Catedral",
+    "Apertura": 0,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": true
+  },
+  {
+    "Equipo": "Los Portones",
+    "Apertura": 12,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Ramon Lista",
+    "Apertura": 18,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "San Martin",
+    "Apertura": 11,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Soc. Italiana HN",
+    "Apertura": 17,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Tiro Libre",
+    "Apertura": 10,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "U. de Matanza",
+    "Apertura": 17,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  }
+]
