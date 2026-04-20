@@ -22,10 +22,10 @@
   },
   {
     "Equipo": "F. de Belgrano",
-    "Apertura": 0,
+    "Apertura": 8,
     "Clausura": 0,
     "Anual": 0,
-    "Consistente": true
+    "Consistente": false
   },
   {
     "Equipo": "Fragio",
@@ -43,10 +43,10 @@
   },
   {
     "Equipo": "La Catedral",
-    "Apertura": 0,
+    "Apertura": 19,
     "Clausura": 0,
     "Anual": 0,
-    "Consistente": true
+    "Consistente": false
   },
   {
     "Equipo": "Los Portones",
