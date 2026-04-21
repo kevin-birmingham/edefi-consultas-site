@@ -122,35 +122,35 @@
       "equipo_visitante": "INTERZONAL",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "tiro libre||ramon lista": {
       "torneo": "apertura",

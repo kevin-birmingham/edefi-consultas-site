@@ -15,10 +15,10 @@
   },
   {
     "Equipo": "Buen Ayre",
-    "Apertura": 0,
+    "Apertura": 21,
     "Clausura": 0,
     "Anual": 0,
-    "Consistente": true
+    "Consistente": false
   },
   {
     "Equipo": "F. de Belgrano",
