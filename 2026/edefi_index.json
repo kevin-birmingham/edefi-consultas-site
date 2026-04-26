@@ -274,35 +274,35 @@
       "equipo_visitante": "F. de Belgrano",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 17,
+          "away": 0
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 9,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 4
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "u. de matanza||la catedral": {
       "torneo": "apertura",
@@ -312,35 +312,35 @@
       "equipo_visitante": "La Catedral",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 1
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 12,
+          "away": 4
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "ramon lista||fragio": {
       "torneo": "apertura",
@@ -388,35 +388,35 @@
       "equipo_visitante": "Tiro Libre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "juv. de castelar||buen ayre": {
       "torneo": "apertura",
@@ -426,35 +426,35 @@
       "equipo_visitante": "Buen Ayre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 3
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 5
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 6
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "san martin||los portones": {
       "torneo": "apertura",
@@ -464,35 +464,35 @@
       "equipo_visitante": "Los Portones",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 1
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 5
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 1
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 2
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "alvear||academia leloir": {
       "torneo": "apertura",
@@ -502,35 +502,35 @@
       "equipo_visitante": "Academia Leloir",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 5
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 6
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 4
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 2
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "academia leloir||soc. italiana hn": {
       "torneo": "apertura",
