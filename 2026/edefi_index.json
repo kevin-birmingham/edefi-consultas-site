@@ -350,35 +350,35 @@
       "equipo_visitante": "Fragio",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 9
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 7
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 4
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 5
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "interzonal||tiro libre": {
       "torneo": "apertura",
