@@ -1,91 +1,91 @@
 [
   {
     "Equipo": "Academia Leloir",
-    "Apertura": 33,
+    "Apertura": 48,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Alvear",
-    "Apertura": 23,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Buen Ayre",
-    "Apertura": 33,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "F. de Belgrano",
-    "Apertura": 14,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Fragio",
-    "Apertura": 25,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Juv. de Castelar",
-    "Apertura": 32,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "La Catedral",
-    "Apertura": 28,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Los Portones",
-    "Apertura": 23,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Ramon Lista",
-    "Apertura": 32,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "San Martin",
-    "Apertura": 28,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Soc. Italiana HN",
     "Apertura": 38,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
+    "Equipo": "Buen Ayre",
+    "Apertura": 49,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "F. de Belgrano",
+    "Apertura": 22,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Fragio",
+    "Apertura": 44,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Juv. de Castelar",
+    "Apertura": 45,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "La Catedral",
+    "Apertura": 37,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Los Portones",
+    "Apertura": 36,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Ramon Lista",
+    "Apertura": 51,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "San Martin",
+    "Apertura": 40,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Soc. Italiana HN",
+    "Apertura": 51,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
     "Equipo": "Tiro Libre",
-    "Apertura": 31,
+    "Apertura": 46,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "U. de Matanza",
-    "Apertura": 36,
+    "Apertura": 55,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
