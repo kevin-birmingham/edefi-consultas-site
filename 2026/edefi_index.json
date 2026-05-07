@@ -692,32 +692,32 @@
       "equipo_visitante": "INTERZONAL",
       "categorias": {
         "19": {
-          "home": 5,
-          "away": 2
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": 13,
-          "away": 2
+          "home": 2,
+          "away": 0
         },
         "18": {
-          "home": 16,
-          "away": 1
+          "home": 2,
+          "away": 0
         },
         "14": {
-          "home": 4,
-          "away": 2
+          "home": 2,
+          "away": 0
         },
         "17": {
-          "home": 10,
-          "away": 3
+          "home": 2,
+          "away": 0
         },
         "16": {
-          "home": 7,
-          "away": 6
+          "home": 2,
+          "away": 0
         },
         "15": {
-          "home": 4,
-          "away": 7
+          "home": 2,
+          "away": 0
         }
       },
       "estado": "normal"
