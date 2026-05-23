@@ -1,7 +1,7 @@
 [
   {
     "Equipo": "Academia Leloir",
-    "Apertura": 65,
+    "Apertura": 80,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
@@ -50,7 +50,7 @@
   },
   {
     "Equipo": "Los Portones",
-    "Apertura": 49,
+    "Apertura": 62,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
