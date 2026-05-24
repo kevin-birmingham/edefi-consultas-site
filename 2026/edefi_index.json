@@ -36,7 +36,8 @@
           "away": 6
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "academia leloir||san martin": {
       "torneo": "apertura",
@@ -74,7 +75,8 @@
           "away": 3
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "los portones||juv. de castelar": {
       "torneo": "apertura",
@@ -112,7 +114,8 @@
           "away": 7
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "buen ayre||interzonal": {
       "torneo": "apertura",
@@ -150,7 +153,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "tiro libre||ramon lista": {
       "torneo": "apertura",
@@ -188,7 +192,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "fragio||u. de matanza": {
       "torneo": "apertura",
@@ -226,7 +231,8 @@
           "away": 6
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "la catedral||f. de belgrano": {
       "torneo": "apertura",
@@ -264,7 +270,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "soc. italiana hn||f. de belgrano": {
       "torneo": "apertura",
@@ -302,7 +309,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "u. de matanza||la catedral": {
       "torneo": "apertura",
@@ -340,7 +348,8 @@
           "away": 3
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "ramon lista||fragio": {
       "torneo": "apertura",
@@ -378,7 +387,8 @@
           "away": 3
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "interzonal||tiro libre": {
       "torneo": "apertura",
@@ -416,7 +426,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "juv. de castelar||buen ayre": {
       "torneo": "apertura",
@@ -454,7 +465,8 @@
           "away": 6
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "san martin||los portones": {
       "torneo": "apertura",
@@ -492,7 +504,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "alvear||academia leloir": {
       "torneo": "apertura",
@@ -530,7 +543,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "academia leloir||soc. italiana hn": {
       "torneo": "apertura",
@@ -568,7 +582,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "los portones||alvear": {
       "torneo": "apertura",
@@ -606,7 +621,8 @@
           "away": 3
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "buen ayre||san martin": {
       "torneo": "apertura",
@@ -644,7 +660,8 @@
           "away": 4
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "tiro libre||juv. de castelar": {
       "torneo": "apertura",
@@ -682,7 +699,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "fragio||interzonal": {
       "torneo": "apertura",
@@ -720,7 +738,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "la catedral||ramon lista": {
       "torneo": "apertura",
@@ -758,7 +777,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "f. de belgrano||u. de matanza": {
       "torneo": "apertura",
@@ -796,7 +816,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "soc. italiana hn||u. de matanza": {
       "torneo": "apertura",
@@ -834,7 +855,8 @@
           "away": 1
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "ramon lista||f. de belgrano": {
       "torneo": "apertura",
@@ -872,7 +894,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "interzonal||la catedral": {
       "torneo": "apertura",
@@ -910,7 +933,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "juv. de castelar||fragio": {
       "torneo": "apertura",
@@ -948,7 +972,8 @@
           "away": 7
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "san martin||tiro libre": {
       "torneo": "apertura",
@@ -986,7 +1011,8 @@
           "away": 1
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "alvear||buen ayre": {
       "torneo": "apertura",
@@ -1024,7 +1050,8 @@
           "away": 8
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "academia leloir||los portones": {
       "torneo": "apertura",
@@ -1062,7 +1089,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "los portones||soc. italiana hn": {
       "torneo": "apertura",
@@ -1100,7 +1128,8 @@
           "away": 8
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "buen ayre||academia leloir": {
       "torneo": "apertura",
@@ -1138,7 +1167,8 @@
           "away": 1
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "tiro libre||alvear": {
       "torneo": "apertura",
@@ -1176,7 +1206,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "fragio||san martin": {
       "torneo": "apertura",
@@ -1214,7 +1245,8 @@
           "away": 2
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "la catedral||juv. de castelar": {
       "torneo": "apertura",
@@ -1225,34 +1257,42 @@
       "categorias": {
         "19": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "13": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "18": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "17": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "16": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": true
     },
     "f. de belgrano||interzonal": {
       "torneo": "apertura",
@@ -1290,7 +1330,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "u. de matanza||ramon lista": {
       "torneo": "apertura",
@@ -1328,7 +1369,8 @@
           "away": 3
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "soc. italiana hn||ramon lista": {
       "torneo": "apertura",
@@ -1366,7 +1408,8 @@
           "away": 1
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "interzonal||u. de matanza": {
       "torneo": "apertura",
@@ -1404,7 +1447,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "juv. de castelar||f. de belgrano": {
       "torneo": "apertura",
@@ -1442,7 +1486,8 @@
           "away": 0
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "san martin||la catedral": {
       "torneo": "apertura",
@@ -1480,7 +1525,8 @@
           "away": 7
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "alvear||fragio": {
       "torneo": "apertura",
@@ -1518,7 +1564,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "academia leloir||tiro libre": {
       "torneo": "apertura",
@@ -1556,7 +1603,8 @@
           "away": 6
         }
       },
-      "estado": "normal"
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "los portones||buen ayre": {
       "torneo": "apertura",
@@ -1594,7 +1642,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "buen ayre||soc. italiana hn": {
       "torneo": "apertura",
@@ -1632,7 +1681,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "tiro libre||los portones": {
       "torneo": "apertura",
@@ -1670,7 +1720,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "fragio||academia leloir": {
       "torneo": "apertura",
@@ -1708,7 +1759,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "la catedral||alvear": {
       "torneo": "apertura",
@@ -1746,7 +1798,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "f. de belgrano||san martin": {
       "torneo": "apertura",
@@ -1784,7 +1837,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "u. de matanza||juv. de castelar": {
       "torneo": "apertura",
@@ -1822,7 +1876,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "ramon lista||interzonal": {
       "torneo": "apertura",
@@ -1860,7 +1915,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "soc. italiana hn||interzonal": {
       "torneo": "apertura",
@@ -1898,7 +1954,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "juv. de castelar||ramon lista": {
       "torneo": "apertura",
@@ -1936,7 +1993,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "san martin||u. de matanza": {
       "torneo": "apertura",
@@ -1974,7 +2032,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "alvear||f. de belgrano": {
       "torneo": "apertura",
@@ -2012,7 +2071,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "academia leloir||la catedral": {
       "torneo": "apertura",
@@ -2050,7 +2110,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "los portones||fragio": {
       "torneo": "apertura",
@@ -2088,7 +2149,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "buen ayre||tiro libre": {
       "torneo": "apertura",
@@ -2126,7 +2188,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "tiro libre||soc. italiana hn": {
       "torneo": "apertura",
@@ -2164,7 +2227,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "fragio||buen ayre": {
       "torneo": "apertura",
@@ -2202,7 +2266,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "la catedral||los portones": {
       "torneo": "apertura",
@@ -2240,7 +2305,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "f. de belgrano||academia leloir": {
       "torneo": "apertura",
@@ -2278,7 +2344,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "u. de matanza||alvear": {
       "torneo": "apertura",
@@ -2316,7 +2383,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "ramon lista||san martin": {
       "torneo": "apertura",
@@ -2354,7 +2422,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "interzonal||juv. de castelar": {
       "torneo": "apertura",
@@ -2392,7 +2461,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "soc. italiana hn||juv. de castelar": {
       "torneo": "apertura",
@@ -2430,7 +2500,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "san martin||interzonal": {
       "torneo": "apertura",
@@ -2468,7 +2539,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "alvear||ramon lista": {
       "torneo": "apertura",
@@ -2506,7 +2578,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "academia leloir||u. de matanza": {
       "torneo": "apertura",
@@ -2544,7 +2617,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "los portones||f. de belgrano": {
       "torneo": "apertura",
@@ -2582,7 +2656,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "buen ayre||la catedral": {
       "torneo": "apertura",
@@ -2620,7 +2695,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "tiro libre||fragio": {
       "torneo": "apertura",
@@ -2658,7 +2734,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "fragio||soc. italiana hn": {
       "torneo": "apertura",
@@ -2696,7 +2773,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "la catedral||tiro libre": {
       "torneo": "apertura",
@@ -2734,7 +2812,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "f. de belgrano||buen ayre": {
       "torneo": "apertura",
@@ -2772,7 +2851,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "u. de matanza||los portones": {
       "torneo": "apertura",
@@ -2810,7 +2890,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "ramon lista||academia leloir": {
       "torneo": "apertura",
@@ -2848,7 +2929,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "interzonal||alvear": {
       "torneo": "apertura",
@@ -2886,7 +2968,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "juv. de castelar||san martin": {
       "torneo": "apertura",
@@ -2924,7 +3007,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "soc. italiana hn||san martin": {
       "torneo": "apertura",
@@ -2962,7 +3046,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "alvear||juv. de castelar": {
       "torneo": "apertura",
@@ -3000,7 +3085,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "academia leloir||interzonal": {
       "torneo": "apertura",
@@ -3038,7 +3124,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "los portones||ramon lista": {
       "torneo": "apertura",
@@ -3076,7 +3163,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "buen ayre||u. de matanza": {
       "torneo": "apertura",
@@ -3114,7 +3202,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "tiro libre||f. de belgrano": {
       "torneo": "apertura",
@@ -3152,7 +3241,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "fragio||la catedral": {
       "torneo": "apertura",
@@ -3190,7 +3280,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "la catedral||soc. italiana hn": {
       "torneo": "apertura",
@@ -3228,7 +3319,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "f. de belgrano||fragio": {
       "torneo": "apertura",
@@ -3266,7 +3358,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "u. de matanza||tiro libre": {
       "torneo": "apertura",
@@ -3304,7 +3397,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "ramon lista||buen ayre": {
       "torneo": "apertura",
@@ -3342,7 +3436,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "interzonal||los portones": {
       "torneo": "apertura",
@@ -3380,7 +3475,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "juv. de castelar||academia leloir": {
       "torneo": "apertura",
@@ -3418,7 +3514,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     },
     "san martin||alvear": {
       "torneo": "apertura",
@@ -3456,7 +3553,8 @@
           "away": null
         }
       },
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "partido_pendiente": false
     }
   },
   "jornada_dates": {
