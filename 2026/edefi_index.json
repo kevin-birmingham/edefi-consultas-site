@@ -1338,35 +1338,35 @@
       "equipo_visitante": "Ramon Lista",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 1
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "interzonal||u. de matanza": {
       "torneo": "apertura",
@@ -1414,35 +1414,35 @@
       "equipo_visitante": "F. de Belgrano",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 20,
+          "away": 1
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 4
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 13,
+          "away": 4
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "san martin||la catedral": {
       "torneo": "apertura",
@@ -1452,35 +1452,35 @@
       "equipo_visitante": "La Catedral",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 4
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 2
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 9,
+          "away": 1
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 1
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 1
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 7
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "alvear||fragio": {
       "torneo": "apertura",
@@ -1528,35 +1528,35 @@
       "equipo_visitante": "Tiro Libre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 4
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 3
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 1
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 6
         }
       },
-      "estado": "pendiente"
+      "estado": "normal"
     },
     "los portones||buen ayre": {
       "torneo": "apertura",
