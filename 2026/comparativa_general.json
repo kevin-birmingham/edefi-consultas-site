@@ -8,14 +8,14 @@
   },
   {
     "Equipo": "Alvear",
-    "Apertura": 65,
+    "Apertura": 80,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Buen Ayre",
-    "Apertura": 75,
+    "Apertura": 90,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
@@ -29,7 +29,7 @@
   },
   {
     "Equipo": "Fragio",
-    "Apertura": 76,
+    "Apertura": 89,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
@@ -50,7 +50,7 @@
   },
   {
     "Equipo": "Los Portones",
-    "Apertura": 62,
+    "Apertura": 75,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
@@ -85,7 +85,7 @@
   },
   {
     "Equipo": "U. de Matanza",
-    "Apertura": 87,
+    "Apertura": 108,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
