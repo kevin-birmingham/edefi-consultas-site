@@ -4,6 +4,154 @@
       "fuente": "https://torneos.edefi.com.ar/torneos/zona-detalle?torneoId=14&zonaId=18&zonaNombre=Zona%20B&color=Verde&torneoNombre=Vespertino&faseNombre=Apertura&tipoDeFase=TodosContraTodos",
       "tablas": [
         {
+          "categoria": "2019",
+          "filas": [
+            {
+              "Pos": 1,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
+              "Equipo": "U. de Matanza",
+              "J": 8,
+              "G": 8,
+              "E": 0,
+              "P": 0,
+              "Np": 0,
+              "Pts": 24
+            },
+            {
+              "Pos": 2,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
+              "Equipo": "Academia Leloir",
+              "J": 8,
+              "G": 7,
+              "E": 0,
+              "P": 1,
+              "Np": 0,
+              "Pts": 22
+            },
+            {
+              "Pos": 3,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
+              "Equipo": "Tiro Libre",
+              "J": 8,
+              "G": 7,
+              "E": 0,
+              "P": 1,
+              "Np": 0,
+              "Pts": 22
+            },
+            {
+              "Pos": 4,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
+              "Equipo": "Los Portones",
+              "J": 8,
+              "G": 5,
+              "E": 1,
+              "P": 2,
+              "Np": 0,
+              "Pts": 19
+            },
+            {
+              "Pos": 5,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
+              "Equipo": "Ramon Lista",
+              "J": 8,
+              "G": 5,
+              "E": 0,
+              "P": 3,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 6,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
+              "Equipo": "La Catedral",
+              "J": 8,
+              "G": 4,
+              "E": 1,
+              "P": 3,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 7,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
+              "Equipo": "Juv. de Castelar",
+              "J": 8,
+              "G": 4,
+              "E": 1,
+              "P": 3,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 8,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
+              "Equipo": "Soc. Italiana HN",
+              "J": 8,
+              "G": 4,
+              "E": 1,
+              "P": 3,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 9,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
+              "Equipo": "Buen Ayre",
+              "J": 8,
+              "G": 2,
+              "E": 2,
+              "P": 4,
+              "Np": 0,
+              "Pts": 14
+            },
+            {
+              "Pos": 10,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
+              "Equipo": "Fragio",
+              "J": 8,
+              "G": 3,
+              "E": 0,
+              "P": 5,
+              "Np": 0,
+              "Pts": 14
+            },
+            {
+              "Pos": 11,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
+              "Equipo": "San Martin",
+              "J": 8,
+              "G": 2,
+              "E": 0,
+              "P": 6,
+              "Np": 0,
+              "Pts": 12
+            },
+            {
+              "Pos": 12,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/215.jpg",
+              "Equipo": "F. de Belgrano",
+              "J": 8,
+              "G": 1,
+              "E": 0,
+              "P": 7,
+              "Np": 0,
+              "Pts": 10
+            },
+            {
+              "Pos": 13,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
+              "Equipo": "Alvear",
+              "J": 8,
+              "G": 1,
+              "E": 0,
+              "P": 6,
+              "Np": 1,
+              "Pts": 9
+            }
+          ]
+        },
+        {
           "categoria": "2013",
           "filas": [
             {
@@ -142,6 +290,154 @@
               "Pos": 13,
               "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/215.jpg",
               "Equipo": "F. de Belgrano",
+              "J": 8,
+              "G": 1,
+              "E": 0,
+              "P": 7,
+              "Np": 0,
+              "Pts": 10
+            }
+          ]
+        },
+        {
+          "categoria": "2018",
+          "filas": [
+            {
+              "Pos": 1,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
+              "Equipo": "Juv. de Castelar",
+              "J": 8,
+              "G": 8,
+              "E": 0,
+              "P": 0,
+              "Np": 0,
+              "Pts": 24
+            },
+            {
+              "Pos": 2,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
+              "Equipo": "Soc. Italiana HN",
+              "J": 8,
+              "G": 7,
+              "E": 1,
+              "P": 0,
+              "Np": 0,
+              "Pts": 23
+            },
+            {
+              "Pos": 3,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
+              "Equipo": "Alvear",
+              "J": 8,
+              "G": 6,
+              "E": 2,
+              "P": 0,
+              "Np": 0,
+              "Pts": 22
+            },
+            {
+              "Pos": 4,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
+              "Equipo": "Fragio",
+              "J": 8,
+              "G": 6,
+              "E": 0,
+              "P": 2,
+              "Np": 0,
+              "Pts": 20
+            },
+            {
+              "Pos": 5,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
+              "Equipo": "U. de Matanza",
+              "J": 8,
+              "G": 5,
+              "E": 0,
+              "P": 3,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 6,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
+              "Equipo": "Academia Leloir",
+              "J": 8,
+              "G": 4,
+              "E": 1,
+              "P": 3,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
+              "Pos": 7,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
+              "Equipo": "Buen Ayre",
+              "J": 8,
+              "G": 4,
+              "E": 0,
+              "P": 4,
+              "Np": 0,
+              "Pts": 16
+            },
+            {
+              "Pos": 8,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
+              "Equipo": "San Martin",
+              "J": 8,
+              "G": 3,
+              "E": 0,
+              "P": 5,
+              "Np": 0,
+              "Pts": 14
+            },
+            {
+              "Pos": 9,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
+              "Equipo": "Ramon Lista",
+              "J": 8,
+              "G": 3,
+              "E": 0,
+              "P": 5,
+              "Np": 0,
+              "Pts": 14
+            },
+            {
+              "Pos": 10,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/215.jpg",
+              "Equipo": "F. de Belgrano",
+              "J": 8,
+              "G": 3,
+              "E": 0,
+              "P": 5,
+              "Np": 0,
+              "Pts": 14
+            },
+            {
+              "Pos": 11,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
+              "Equipo": "Tiro Libre",
+              "J": 8,
+              "G": 2,
+              "E": 1,
+              "P": 5,
+              "Np": 0,
+              "Pts": 13
+            },
+            {
+              "Pos": 12,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
+              "Equipo": "Los Portones",
+              "J": 8,
+              "G": 1,
+              "E": 1,
+              "P": 6,
+              "Np": 0,
+              "Pts": 11
+            },
+            {
+              "Pos": 13,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
+              "Equipo": "La Catedral",
               "J": 8,
               "G": 1,
               "E": 0,
@@ -300,23 +596,12 @@
           ]
         },
         {
-          "categoria": "2015",
+          "categoria": "2017",
           "filas": [
             {
               "Pos": 1,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
-              "Equipo": "Buen Ayre",
-              "J": 8,
-              "G": 8,
-              "E": 0,
-              "P": 0,
-              "Np": 0,
-              "Pts": 24
-            },
-            {
-              "Pos": 2,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
-              "Equipo": "La Catedral",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
+              "Equipo": "Juv. de Castelar",
               "J": 8,
               "G": 7,
               "E": 1,
@@ -325,9 +610,20 @@
               "Pts": 23
             },
             {
+              "Pos": 2,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
+              "Equipo": "Academia Leloir",
+              "J": 8,
+              "G": 7,
+              "E": 0,
+              "P": 1,
+              "Np": 0,
+              "Pts": 22
+            },
+            {
               "Pos": 3,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
-              "Equipo": "Soc. Italiana HN",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
+              "Equipo": "Los Portones",
               "J": 8,
               "G": 7,
               "E": 0,
@@ -337,8 +633,8 @@
             },
             {
               "Pos": 4,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
-              "Equipo": "Fragio",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
+              "Equipo": "Ramon Lista",
               "J": 8,
               "G": 5,
               "E": 2,
@@ -348,19 +644,8 @@
             },
             {
               "Pos": 5,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
-              "Equipo": "U. de Matanza",
-              "J": 8,
-              "G": 4,
-              "E": 2,
-              "P": 2,
-              "Np": 0,
-              "Pts": 18
-            },
-            {
-              "Pos": 6,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
-              "Equipo": "San Martin",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
+              "Equipo": "Fragio",
               "J": 8,
               "G": 4,
               "E": 1,
@@ -369,9 +654,20 @@
               "Pts": 17
             },
             {
+              "Pos": 6,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
+              "Equipo": "Tiro Libre",
+              "J": 8,
+              "G": 3,
+              "E": 3,
+              "P": 2,
+              "Np": 0,
+              "Pts": 17
+            },
+            {
               "Pos": 7,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
-              "Equipo": "Juv. de Castelar",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
+              "Equipo": "San Martin",
               "J": 8,
               "G": 3,
               "E": 2,
@@ -381,19 +677,19 @@
             },
             {
               "Pos": 8,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
-              "Equipo": "Tiro Libre",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
+              "Equipo": "Soc. Italiana HN",
               "J": 8,
-              "G": 3,
-              "E": 2,
-              "P": 3,
+              "G": 4,
+              "E": 0,
+              "P": 4,
               "Np": 0,
               "Pts": 16
             },
             {
               "Pos": 9,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
-              "Equipo": "Alvear",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
+              "Equipo": "Buen Ayre",
               "J": 8,
               "G": 3,
               "E": 1,
@@ -403,47 +699,47 @@
             },
             {
               "Pos": 10,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
-              "Equipo": "Ramon Lista",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
+              "Equipo": "La Catedral",
               "J": 8,
-              "G": 3,
+              "G": 2,
               "E": 1,
-              "P": 4,
+              "P": 5,
               "Np": 0,
-              "Pts": 15
+              "Pts": 13
             },
             {
               "Pos": 11,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
-              "Equipo": "Academia Leloir",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
+              "Equipo": "Alvear",
               "J": 8,
-              "G": 1,
-              "E": 1,
+              "G": 2,
+              "E": 0,
               "P": 6,
               "Np": 0,
-              "Pts": 11
+              "Pts": 12
             },
             {
               "Pos": 12,
               "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/215.jpg",
               "Equipo": "F. de Belgrano",
               "J": 8,
-              "G": 1,
+              "G": 2,
               "E": 0,
-              "P": 7,
+              "P": 6,
               "Np": 0,
-              "Pts": 10
+              "Pts": 12
             },
             {
               "Pos": 13,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
-              "Equipo": "Los Portones",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
+              "Equipo": "U. de Matanza",
               "J": 8,
-              "G": 0,
+              "G": 1,
               "E": 1,
-              "P": 7,
+              "P": 6,
               "Np": 0,
-              "Pts": 9
+              "Pts": 11
             }
           ]
         },
@@ -596,12 +892,23 @@
           ]
         },
         {
-          "categoria": "2017",
+          "categoria": "2015",
           "filas": [
             {
               "Pos": 1,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
-              "Equipo": "Juv. de Castelar",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
+              "Equipo": "Buen Ayre",
+              "J": 8,
+              "G": 8,
+              "E": 0,
+              "P": 0,
+              "Np": 0,
+              "Pts": 24
+            },
+            {
+              "Pos": 2,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
+              "Equipo": "La Catedral",
               "J": 8,
               "G": 7,
               "E": 1,
@@ -610,20 +917,9 @@
               "Pts": 23
             },
             {
-              "Pos": 2,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
-              "Equipo": "Academia Leloir",
-              "J": 8,
-              "G": 7,
-              "E": 0,
-              "P": 1,
-              "Np": 0,
-              "Pts": 22
-            },
-            {
               "Pos": 3,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
-              "Equipo": "Los Portones",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
+              "Equipo": "Soc. Italiana HN",
               "J": 8,
               "G": 7,
               "E": 0,
@@ -633,8 +929,8 @@
             },
             {
               "Pos": 4,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
-              "Equipo": "Ramon Lista",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
+              "Equipo": "Fragio",
               "J": 8,
               "G": 5,
               "E": 2,
@@ -644,8 +940,19 @@
             },
             {
               "Pos": 5,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
-              "Equipo": "Fragio",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
+              "Equipo": "U. de Matanza",
+              "J": 8,
+              "G": 4,
+              "E": 2,
+              "P": 2,
+              "Np": 0,
+              "Pts": 18
+            },
+            {
+              "Pos": 6,
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
+              "Equipo": "San Martin",
               "J": 8,
               "G": 4,
               "E": 1,
@@ -654,20 +961,9 @@
               "Pts": 17
             },
             {
-              "Pos": 6,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
-              "Equipo": "Tiro Libre",
-              "J": 8,
-              "G": 3,
-              "E": 3,
-              "P": 2,
-              "Np": 0,
-              "Pts": 17
-            },
-            {
               "Pos": 7,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
-              "Equipo": "San Martin",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
+              "Equipo": "Juv. de Castelar",
               "J": 8,
               "G": 3,
               "E": 2,
@@ -677,19 +973,19 @@
             },
             {
               "Pos": 8,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
-              "Equipo": "Soc. Italiana HN",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
+              "Equipo": "Tiro Libre",
               "J": 8,
-              "G": 4,
-              "E": 0,
-              "P": 4,
+              "G": 3,
+              "E": 2,
+              "P": 3,
               "Np": 0,
               "Pts": 16
             },
             {
               "Pos": 9,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
-              "Equipo": "Buen Ayre",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
+              "Equipo": "Alvear",
               "J": 8,
               "G": 3,
               "E": 1,
@@ -699,321 +995,25 @@
             },
             {
               "Pos": 10,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
-              "Equipo": "La Catedral",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
+              "Equipo": "Ramon Lista",
               "J": 8,
-              "G": 2,
+              "G": 3,
               "E": 1,
-              "P": 5,
+              "P": 4,
               "Np": 0,
-              "Pts": 13
+              "Pts": 15
             },
             {
               "Pos": 11,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
-              "Equipo": "Alvear",
-              "J": 8,
-              "G": 2,
-              "E": 0,
-              "P": 6,
-              "Np": 0,
-              "Pts": 12
-            },
-            {
-              "Pos": 12,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/215.jpg",
-              "Equipo": "F. de Belgrano",
-              "J": 8,
-              "G": 2,
-              "E": 0,
-              "P": 6,
-              "Np": 0,
-              "Pts": 12
-            },
-            {
-              "Pos": 13,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
-              "Equipo": "U. de Matanza",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
+              "Equipo": "Academia Leloir",
               "J": 8,
               "G": 1,
               "E": 1,
               "P": 6,
               "Np": 0,
               "Pts": 11
-            }
-          ]
-        },
-        {
-          "categoria": "2018",
-          "filas": [
-            {
-              "Pos": 1,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
-              "Equipo": "Juv. de Castelar",
-              "J": 8,
-              "G": 8,
-              "E": 0,
-              "P": 0,
-              "Np": 0,
-              "Pts": 24
-            },
-            {
-              "Pos": 2,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
-              "Equipo": "Soc. Italiana HN",
-              "J": 8,
-              "G": 7,
-              "E": 1,
-              "P": 0,
-              "Np": 0,
-              "Pts": 23
-            },
-            {
-              "Pos": 3,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
-              "Equipo": "Alvear",
-              "J": 8,
-              "G": 6,
-              "E": 2,
-              "P": 0,
-              "Np": 0,
-              "Pts": 22
-            },
-            {
-              "Pos": 4,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
-              "Equipo": "Fragio",
-              "J": 8,
-              "G": 6,
-              "E": 0,
-              "P": 2,
-              "Np": 0,
-              "Pts": 20
-            },
-            {
-              "Pos": 5,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
-              "Equipo": "U. de Matanza",
-              "J": 8,
-              "G": 5,
-              "E": 0,
-              "P": 3,
-              "Np": 0,
-              "Pts": 18
-            },
-            {
-              "Pos": 6,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
-              "Equipo": "Academia Leloir",
-              "J": 8,
-              "G": 4,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 17
-            },
-            {
-              "Pos": 7,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
-              "Equipo": "Buen Ayre",
-              "J": 8,
-              "G": 4,
-              "E": 0,
-              "P": 4,
-              "Np": 0,
-              "Pts": 16
-            },
-            {
-              "Pos": 8,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
-              "Equipo": "San Martin",
-              "J": 8,
-              "G": 3,
-              "E": 0,
-              "P": 5,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
-              "Pos": 9,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
-              "Equipo": "Ramon Lista",
-              "J": 8,
-              "G": 3,
-              "E": 0,
-              "P": 5,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
-              "Pos": 10,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/215.jpg",
-              "Equipo": "F. de Belgrano",
-              "J": 8,
-              "G": 3,
-              "E": 0,
-              "P": 5,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
-              "Pos": 11,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
-              "Equipo": "Tiro Libre",
-              "J": 8,
-              "G": 2,
-              "E": 1,
-              "P": 5,
-              "Np": 0,
-              "Pts": 13
-            },
-            {
-              "Pos": 12,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
-              "Equipo": "Los Portones",
-              "J": 8,
-              "G": 1,
-              "E": 1,
-              "P": 6,
-              "Np": 0,
-              "Pts": 11
-            },
-            {
-              "Pos": 13,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
-              "Equipo": "La Catedral",
-              "J": 8,
-              "G": 1,
-              "E": 0,
-              "P": 7,
-              "Np": 0,
-              "Pts": 10
-            }
-          ]
-        },
-        {
-          "categoria": "2019",
-          "filas": [
-            {
-              "Pos": 1,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/168.jpg",
-              "Equipo": "U. de Matanza",
-              "J": 8,
-              "G": 8,
-              "E": 0,
-              "P": 0,
-              "Np": 0,
-              "Pts": 24
-            },
-            {
-              "Pos": 2,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/165.jpg",
-              "Equipo": "Academia Leloir",
-              "J": 8,
-              "G": 7,
-              "E": 0,
-              "P": 1,
-              "Np": 0,
-              "Pts": 22
-            },
-            {
-              "Pos": 3,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/13.jpg",
-              "Equipo": "Tiro Libre",
-              "J": 8,
-              "G": 7,
-              "E": 0,
-              "P": 1,
-              "Np": 0,
-              "Pts": 22
-            },
-            {
-              "Pos": 4,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
-              "Equipo": "Los Portones",
-              "J": 8,
-              "G": 5,
-              "E": 1,
-              "P": 2,
-              "Np": 0,
-              "Pts": 19
-            },
-            {
-              "Pos": 5,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/232.jpg",
-              "Equipo": "Ramon Lista",
-              "J": 8,
-              "G": 5,
-              "E": 0,
-              "P": 3,
-              "Np": 0,
-              "Pts": 18
-            },
-            {
-              "Pos": 6,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/42.jpg",
-              "Equipo": "La Catedral",
-              "J": 8,
-              "G": 4,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 17
-            },
-            {
-              "Pos": 7,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/221.jpg",
-              "Equipo": "Juv. de Castelar",
-              "J": 8,
-              "G": 4,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 17
-            },
-            {
-              "Pos": 8,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/2.jpg",
-              "Equipo": "Soc. Italiana HN",
-              "J": 8,
-              "G": 4,
-              "E": 1,
-              "P": 3,
-              "Np": 0,
-              "Pts": 17
-            },
-            {
-              "Pos": 9,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/345.jpg",
-              "Equipo": "Buen Ayre",
-              "J": 8,
-              "G": 2,
-              "E": 2,
-              "P": 4,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
-              "Pos": 10,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/183.jpg",
-              "Equipo": "Fragio",
-              "J": 8,
-              "G": 3,
-              "E": 0,
-              "P": 5,
-              "Np": 0,
-              "Pts": 14
-            },
-            {
-              "Pos": 11,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/361.jpg",
-              "Equipo": "San Martin",
-              "J": 8,
-              "G": 2,
-              "E": 0,
-              "P": 6,
-              "Np": 0,
-              "Pts": 12
             },
             {
               "Pos": 12,
@@ -1028,13 +1028,13 @@
             },
             {
               "Pos": 13,
-              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/239.jpg",
-              "Equipo": "Alvear",
+              "Esc": "https://www.edefi.com.ar/Imagenes/Escudos/216.jpg",
+              "Equipo": "Los Portones",
               "J": 8,
-              "G": 1,
-              "E": 0,
-              "P": 6,
-              "Np": 1,
+              "G": 0,
+              "E": 1,
+              "P": 7,
+              "Np": 0,
               "Pts": 9
             }
           ]
