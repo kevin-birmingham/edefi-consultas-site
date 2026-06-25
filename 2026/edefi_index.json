@@ -2270,43 +2270,36 @@
       "equipo_visitante": "Los Portones",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 1
         },
         "13": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 5
         },
         "18": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 1
         },
         "14": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 2
         },
         "17": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 6
         },
         "16": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 6
         },
         "15": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 5,
+          "away": 1
         }
       },
-      "estado": "pendiente",
-      "partido_pendiente": true
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "f. de belgrano||academia leloir": {
       "torneo": "apertura",
