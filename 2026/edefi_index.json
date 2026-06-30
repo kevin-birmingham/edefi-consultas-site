@@ -2784,35 +2784,35 @@
       "equipo_visitante": "Tiro Libre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 6
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 8
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 3
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "f. de belgrano||buen ayre": {
