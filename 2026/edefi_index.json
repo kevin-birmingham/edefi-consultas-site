@@ -2309,43 +2309,36 @@
       "equipo_visitante": "Academia Leloir",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 3
         },
         "18": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 3
         },
         "14": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 3,
+          "away": 6
         },
         "17": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 6
         },
         "16": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 7
         }
       },
-      "estado": "pendiente",
-      "partido_pendiente": true
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "u. de matanza||alvear": {
       "torneo": "apertura",
