@@ -1,91 +1,91 @@
 [
   {
     "Equipo": "Academia Leloir",
-    "Apertura": 186,
+    "Apertura": 207,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Alvear",
-    "Apertura": 168,
+    "Apertura": 179,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Buen Ayre",
-    "Apertura": 179,
+    "Apertura": 195,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "F. de Belgrano",
-    "Apertura": 88,
+    "Apertura": 96,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Fragio",
-    "Apertura": 158,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Juv. de Castelar",
-    "Apertura": 176,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "La Catedral",
-    "Apertura": 132,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Los Portones",
-    "Apertura": 152,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Ramon Lista",
-    "Apertura": 157,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "San Martin",
-    "Apertura": 165,
-    "Clausura": 0,
-    "Anual": 0,
-    "Consistente": false
-  },
-  {
-    "Equipo": "Soc. Italiana HN",
     "Apertura": 173,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
+    "Equipo": "Juv. de Castelar",
+    "Apertura": 193,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "La Catedral",
+    "Apertura": 144,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Los Portones",
+    "Apertura": 166,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Ramon Lista",
+    "Apertura": 171,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "San Martin",
+    "Apertura": 177,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
+    "Equipo": "Soc. Italiana HN",
+    "Apertura": 189,
+    "Clausura": 0,
+    "Anual": 0,
+    "Consistente": false
+  },
+  {
     "Equipo": "Tiro Libre",
-    "Apertura": 152,
+    "Apertura": 171,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "U. de Matanza",
-    "Apertura": 179,
+    "Apertura": 190,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
