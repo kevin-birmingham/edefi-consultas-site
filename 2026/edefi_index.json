@@ -3289,9 +3289,8 @@
           "partido_pendiente": true
         },
         "13": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 1
         },
         "18": {
           "home": null,
@@ -3299,9 +3298,8 @@
           "partido_pendiente": true
         },
         "14": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 4
         },
         "17": {
           "home": null,
@@ -3314,13 +3312,12 @@
           "partido_pendiente": true
         },
         "15": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 1
         }
       },
-      "estado": "pendiente",
-      "partido_pendiente": true
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "f. de belgrano||fragio": {
       "torneo": "apertura",
