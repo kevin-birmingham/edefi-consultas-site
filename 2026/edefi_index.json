@@ -3284,32 +3284,28 @@
       "equipo_visitante": "Soc. Italiana HN",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 1
         },
         "13": {
           "home": 2,
           "away": 1
         },
         "18": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 7
         },
         "14": {
           "home": 0,
           "away": 4
         },
         "17": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 1
         },
         "15": {
           "home": 2,
@@ -3351,9 +3347,8 @@
           "away": 2
         },
         "15": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 6
         }
       },
       "estado": "normal",

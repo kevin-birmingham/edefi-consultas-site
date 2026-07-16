@@ -22,14 +22,14 @@
   },
   {
     "Equipo": "F. de Belgrano",
-    "Apertura": 101,
+    "Apertura": 102,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Fragio",
-    "Apertura": 191,
+    "Apertura": 194,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
@@ -43,7 +43,7 @@
   },
   {
     "Equipo": "La Catedral",
-    "Apertura": 151,
+    "Apertura": 159,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
@@ -71,7 +71,7 @@
   },
   {
     "Equipo": "Soc. Italiana HN",
-    "Apertura": 194,
+    "Apertura": 202,
     "Clausura": 0,
     "Anual": 0,
     "Consistente": false
