@@ -3548,6 +3548,3555 @@
       },
       "estado": "normal",
       "partido_pendiente": false
+    },
+    "soc. italiana hn||alvear": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": 2,
+          "away": 0
+        },
+        "13": {
+          "home": 5,
+          "away": 6
+        },
+        "18": {
+          "home": 8,
+          "away": 2
+        },
+        "14": {
+          "home": 2,
+          "away": 5
+        },
+        "17": {
+          "home": 4,
+          "away": 2
+        },
+        "16": {
+          "home": 6,
+          "away": 2
+        },
+        "15": {
+          "home": 5,
+          "away": 3
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "san martin||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": 0,
+          "away": 4
+        },
+        "13": {
+          "home": 3,
+          "away": 3
+        },
+        "18": {
+          "home": 1,
+          "away": 4
+        },
+        "14": {
+          "home": 9,
+          "away": 4
+        },
+        "17": {
+          "home": 0,
+          "away": 7
+        },
+        "16": {
+          "home": 6,
+          "away": 1
+        },
+        "15": {
+          "home": 4,
+          "away": 6
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||los portones": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": 1,
+          "away": 4
+        },
+        "13": {
+          "home": 12,
+          "away": 4
+        },
+        "18": {
+          "home": 5,
+          "away": 1
+        },
+        "14": {
+          "home": 8,
+          "away": 5
+        },
+        "17": {
+          "home": 5,
+          "away": 3
+        },
+        "16": {
+          "home": 7,
+          "away": 1
+        },
+        "15": {
+          "home": 4,
+          "away": 1
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "interzonal||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": 0,
+          "away": 2
+        },
+        "13": {
+          "home": 0,
+          "away": 2
+        },
+        "18": {
+          "home": 0,
+          "away": 2
+        },
+        "14": {
+          "home": 0,
+          "away": 2
+        },
+        "17": {
+          "home": 0,
+          "away": 2
+        },
+        "16": {
+          "home": 0,
+          "away": 2
+        },
+        "15": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "ramon lista||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": 3,
+          "away": 3
+        },
+        "13": {
+          "home": 4,
+          "away": 2
+        },
+        "18": {
+          "home": 8,
+          "away": 3
+        },
+        "14": {
+          "home": 1,
+          "away": 8
+        },
+        "17": {
+          "home": 5,
+          "away": 2
+        },
+        "16": {
+          "home": 2,
+          "away": 4
+        },
+        "15": {
+          "home": 2,
+          "away": 3
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "u. de matanza||fragio": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": 2,
+          "away": 2
+        },
+        "13": {
+          "home": 7,
+          "away": 3
+        },
+        "18": {
+          "home": 4,
+          "away": 5
+        },
+        "14": {
+          "home": 2,
+          "away": 1
+        },
+        "17": {
+          "home": 1,
+          "away": 8
+        },
+        "16": {
+          "home": 2,
+          "away": 3
+        },
+        "15": {
+          "home": 3,
+          "away": 0
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||la catedral": {
+      "torneo": "clausura",
+      "jornada": 1,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": 0,
+          "away": 2
+        },
+        "13": {
+          "home": 3,
+          "away": 8
+        },
+        "18": {
+          "home": 3,
+          "away": 3
+        },
+        "14": {
+          "home": 2,
+          "away": 4
+        },
+        "17": {
+          "home": 0,
+          "away": 6
+        },
+        "16": {
+          "home": 0,
+          "away": 2
+        },
+        "15": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "19": {
+          "home": 0,
+          "away": 13
+        },
+        "13": {
+          "home": 4,
+          "away": 3
+        },
+        "18": {
+          "home": 0,
+          "away": 8
+        },
+        "14": {
+          "home": 3,
+          "away": 1
+        },
+        "17": {
+          "home": 2,
+          "away": 7
+        },
+        "16": {
+          "home": 0,
+          "away": 2
+        },
+        "15": {
+          "home": 1,
+          "away": 8
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "la catedral||u. de matanza": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "La Catedral",
+      "equipo_visitante": "U. de Matanza",
+      "categorias": {
+        "19": {
+          "home": 0,
+          "away": 0
+        },
+        "13": {
+          "home": 3,
+          "away": 8
+        },
+        "18": {
+          "home": 3,
+          "away": 6
+        },
+        "14": {
+          "home": 2,
+          "away": 1
+        },
+        "17": {
+          "home": 2,
+          "away": 0
+        },
+        "16": {
+          "home": 0,
+          "away": 3
+        },
+        "15": {
+          "home": 3,
+          "away": 2
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "fragio||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "Fragio",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "19": {
+          "home": 4,
+          "away": 2
+        },
+        "13": {
+          "home": 4,
+          "away": 2
+        },
+        "18": {
+          "home": 6,
+          "away": 0
+        },
+        "14": {
+          "home": 13,
+          "away": 1
+        },
+        "17": {
+          "home": 4,
+          "away": 3
+        },
+        "16": {
+          "home": 3,
+          "away": 3
+        },
+        "15": {
+          "home": 1,
+          "away": 1
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "tiro libre||interzonal": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "Tiro Libre",
+      "equipo_visitante": "INTERZONAL",
+      "categorias": {
+        "19": {
+          "home": 2,
+          "away": 0
+        },
+        "13": {
+          "home": 2,
+          "away": 0
+        },
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "14": {
+          "home": 2,
+          "away": 0
+        },
+        "17": {
+          "home": 2,
+          "away": 0
+        },
+        "16": {
+          "home": 2,
+          "away": 0
+        },
+        "15": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "buen ayre||juv. de castelar": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "Buen Ayre",
+      "equipo_visitante": "Juv. de Castelar",
+      "categorias": {
+        "19": {
+          "home": 4,
+          "away": 2
+        },
+        "13": {
+          "home": 2,
+          "away": 1
+        },
+        "18": {
+          "home": 1,
+          "away": 2
+        },
+        "14": {
+          "home": 5,
+          "away": 3
+        },
+        "17": {
+          "home": 3,
+          "away": 2
+        },
+        "16": {
+          "home": 5,
+          "away": 3
+        },
+        "15": {
+          "home": 8,
+          "away": 3
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "los portones||san martin": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "Los Portones",
+      "equipo_visitante": "San Martin",
+      "categorias": {
+        "19": {
+          "home": 5,
+          "away": 0
+        },
+        "13": {
+          "home": 0,
+          "away": 4
+        },
+        "18": {
+          "home": 2,
+          "away": 0
+        },
+        "14": {
+          "home": 0,
+          "away": 10
+        },
+        "17": {
+          "home": 6,
+          "away": 2
+        },
+        "16": {
+          "home": 2,
+          "away": 0
+        },
+        "15": {
+          "home": 3,
+          "away": 7
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "academia leloir||alvear": {
+      "torneo": "clausura",
+      "jornada": 2,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": 9,
+          "away": 0
+        },
+        "13": {
+          "home": 2,
+          "away": 3
+        },
+        "18": {
+          "home": 6,
+          "away": 1
+        },
+        "14": {
+          "home": 4,
+          "away": 6
+        },
+        "17": {
+          "home": 6,
+          "away": 0
+        },
+        "16": {
+          "home": 4,
+          "away": 3
+        },
+        "15": {
+          "home": 4,
+          "away": 2
+        }
+      },
+      "estado": "normal",
+      "partido_pendiente": false
+    },
+    "soc. italiana hn||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "alvear||los portones": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "Alvear",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "san martin||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "interzonal||fragio": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "ramon lista||la catedral": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "u. de matanza||f. de belgrano": {
+      "torneo": "clausura",
+      "jornada": 3,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "F. de Belgrano",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "u. de matanza||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "la catedral||interzonal": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "La Catedral",
+      "equipo_visitante": "INTERZONAL",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "fragio||juv. de castelar": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "Fragio",
+      "equipo_visitante": "Juv. de Castelar",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "tiro libre||san martin": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "Tiro Libre",
+      "equipo_visitante": "San Martin",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "buen ayre||alvear": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "Buen Ayre",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "los portones||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 4,
+      "partido": null,
+      "equipo_local": "Los Portones",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "soc. italiana hn||los portones": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "academia leloir||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "alvear||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "Alvear",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "san martin||fragio": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||la catedral": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "interzonal||f. de belgrano": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "F. de Belgrano",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "ramon lista||u. de matanza": {
+      "torneo": "clausura",
+      "jornada": 5,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "U. de Matanza",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "ramon lista||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "u. de matanza||interzonal": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "INTERZONAL",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||juv. de castelar": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Juv. de Castelar",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "la catedral||san martin": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "La Catedral",
+      "equipo_visitante": "San Martin",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "fragio||alvear": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "Fragio",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "tiro libre||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "Tiro Libre",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "buen ayre||los portones": {
+      "torneo": "clausura",
+      "jornada": 6,
+      "partido": null,
+      "equipo_local": "Buen Ayre",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "soc. italiana hn||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "los portones||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "Los Portones",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "academia leloir||fragio": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "alvear||la catedral": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "Alvear",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "san martin||f. de belgrano": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "F. de Belgrano",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||u. de matanza": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "U. de Matanza",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "interzonal||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 7,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "interzonal||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "ramon lista||juv. de castelar": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "Juv. de Castelar",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "u. de matanza||san martin": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "San Martin",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||alvear": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "la catedral||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "La Catedral",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "fragio||los portones": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "Fragio",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "tiro libre||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 8,
+      "partido": null,
+      "equipo_local": "Tiro Libre",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "soc. italiana hn||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "buen ayre||fragio": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "Buen Ayre",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "los portones||la catedral": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "Los Portones",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "academia leloir||f. de belgrano": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "F. de Belgrano",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "alvear||u. de matanza": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "Alvear",
+      "equipo_visitante": "U. de Matanza",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "san martin||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||interzonal": {
+      "torneo": "clausura",
+      "jornada": 9,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "INTERZONAL",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "interzonal||san martin": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "San Martin",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "ramon lista||alvear": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "u. de matanza||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||los portones": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "la catedral||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "La Catedral",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "fragio||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 10,
+      "partido": null,
+      "equipo_local": "Fragio",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "soc. italiana hn||fragio": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "tiro libre||la catedral": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "Tiro Libre",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "buen ayre||f. de belgrano": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "Buen Ayre",
+      "equipo_visitante": "F. de Belgrano",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "los portones||u. de matanza": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "Los Portones",
+      "equipo_visitante": "U. de Matanza",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "academia leloir||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "alvear||interzonal": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "Alvear",
+      "equipo_visitante": "INTERZONAL",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "san martin||juv. de castelar": {
+      "torneo": "clausura",
+      "jornada": 11,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "Juv. de Castelar",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "san martin||soc. italiana hn": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "San Martin",
+      "equipo_visitante": "Soc. Italiana HN",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "juv. de castelar||alvear": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "Juv. de Castelar",
+      "equipo_visitante": "Alvear",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "interzonal||academia leloir": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "INTERZONAL",
+      "equipo_visitante": "Academia Leloir",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "ramon lista||los portones": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "Ramon Lista",
+      "equipo_visitante": "Los Portones",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "u. de matanza||buen ayre": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "U. de Matanza",
+      "equipo_visitante": "Buen Ayre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "f. de belgrano||tiro libre": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "F. de Belgrano",
+      "equipo_visitante": "Tiro Libre",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "la catedral||fragio": {
+      "torneo": "clausura",
+      "jornada": 12,
+      "partido": null,
+      "equipo_local": "La Catedral",
+      "equipo_visitante": "Fragio",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "soc. italiana hn||la catedral": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Soc. Italiana HN",
+      "equipo_visitante": "La Catedral",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "fragio||f. de belgrano": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Fragio",
+      "equipo_visitante": "F. de Belgrano",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "tiro libre||u. de matanza": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Tiro Libre",
+      "equipo_visitante": "U. de Matanza",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "buen ayre||ramon lista": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Buen Ayre",
+      "equipo_visitante": "Ramon Lista",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "los portones||interzonal": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Los Portones",
+      "equipo_visitante": "INTERZONAL",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "academia leloir||juv. de castelar": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Academia Leloir",
+      "equipo_visitante": "Juv. de Castelar",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
+    },
+    "alvear||san martin": {
+      "torneo": "clausura",
+      "jornada": 13,
+      "partido": null,
+      "equipo_local": "Alvear",
+      "equipo_visitante": "San Martin",
+      "categorias": {
+        "19": {
+          "home": null,
+          "away": null
+        },
+        "13": {
+          "home": null,
+          "away": null
+        },
+        "18": {
+          "home": null,
+          "away": null
+        },
+        "14": {
+          "home": null,
+          "away": null
+        },
+        "17": {
+          "home": null,
+          "away": null
+        },
+        "16": {
+          "home": null,
+          "away": null
+        },
+        "15": {
+          "home": null,
+          "away": null
+        }
+      },
+      "estado": "pendiente",
+      "partido_pendiente": false
     }
   },
   "jornada_dates": {
@@ -3565,6 +7114,21 @@
       "11": "27-06",
       "12": "04-07",
       "13": "11-07"
+    },
+    "clausura": {
+      "1": "22-08",
+      "2": "29-08",
+      "3": "05-09",
+      "4": "12-09",
+      "5": "19-09",
+      "6": "26-09",
+      "7": "03-10",
+      "8": "10-10",
+      "9": "17-10",
+      "10": "24-10",
+      "11": "31-10",
+      "12": "07-11",
+      "13": "14-11"
     }
   }
 }
