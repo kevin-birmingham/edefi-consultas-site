@@ -4103,35 +4103,35 @@
       "equipo_visitante": "Academia Leloir",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 5
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 6
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "alvear||los portones": {
@@ -4142,35 +4142,35 @@
       "equipo_visitante": "Los Portones",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 1
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 2
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 10
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 4
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 3
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "san martin||buen ayre": {
@@ -4181,35 +4181,35 @@
       "equipo_visitante": "Buen Ayre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 6
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 4
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 8
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "juv. de castelar||tiro libre": {
@@ -4220,35 +4220,35 @@
       "equipo_visitante": "Tiro Libre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 5
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 3
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 3
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 5
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 5
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 6
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "interzonal||fragio": {
@@ -4259,35 +4259,35 @@
       "equipo_visitante": "Fragio",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "ramon lista||la catedral": {
@@ -4298,35 +4298,35 @@
       "equipo_visitante": "La Catedral",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 12,
+          "away": 2
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 4
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 6,
+          "away": 1
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 4
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 9
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "u. de matanza||f. de belgrano": {
@@ -4337,35 +4337,35 @@
       "equipo_visitante": "F. de Belgrano",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 16,
+          "away": 2
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 9,
+          "away": 1
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 12,
+          "away": 1
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "u. de matanza||soc. italiana hn": {
