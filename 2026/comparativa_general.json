@@ -9,14 +9,14 @@
   {
     "Equipo": "Alvear",
     "Apertura": 187,
-    "Clausura": 62,
+    "Clausura": 72,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Buen Ayre",
     "Apertura": 211,
-    "Clausura": 91,
+    "Clausura": 106,
     "Anual": 0,
     "Consistente": false
   },
@@ -30,7 +30,7 @@
   {
     "Equipo": "Fragio",
     "Apertura": 194,
-    "Clausura": 78,
+    "Clausura": 96,
     "Anual": 0,
     "Consistente": false
   },
@@ -44,35 +44,35 @@
   {
     "Equipo": "La Catedral",
     "Apertura": 159,
-    "Clausura": 77,
+    "Clausura": 91,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Los Portones",
     "Apertura": 187,
-    "Clausura": 58,
+    "Clausura": 71,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Ramon Lista",
     "Apertura": 183,
-    "Clausura": 72,
+    "Clausura": 81,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "San Martin",
     "Apertura": 196,
-    "Clausura": 63,
+    "Clausura": 77,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Soc. Italiana HN",
     "Apertura": 202,
-    "Clausura": 80,
+    "Clausura": 99,
     "Anual": 0,
     "Consistente": false
   },
@@ -86,7 +86,7 @@
   {
     "Equipo": "U. de Matanza",
     "Apertura": 206,
-    "Clausura": 74,
+    "Clausura": 95,
     "Anual": 0,
     "Consistente": false
   }
