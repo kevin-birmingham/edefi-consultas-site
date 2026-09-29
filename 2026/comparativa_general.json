@@ -2,7 +2,7 @@
   {
     "Equipo": "Academia Leloir",
     "Apertura": 218,
-    "Clausura": 76,
+    "Clausura": 91,
     "Anual": 0,
     "Consistente": false
   },
@@ -23,7 +23,7 @@
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 102,
-    "Clausura": 51,
+    "Clausura": 57,
     "Anual": 0,
     "Consistente": false
   },
@@ -37,7 +37,7 @@
   {
     "Equipo": "Juv. de Castelar",
     "Apertura": 210,
-    "Clausura": 79,
+    "Clausura": 100,
     "Anual": 0,
     "Consistente": false
   },
@@ -79,7 +79,7 @@
   {
     "Equipo": "Tiro Libre",
     "Apertura": 183,
-    "Clausura": 76,
+    "Clausura": 89,
     "Anual": 0,
     "Consistente": false
   },

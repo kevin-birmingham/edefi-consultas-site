@@ -5000,35 +5000,35 @@
       "equipo_visitante": "Juv. de Castelar",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 11
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 6
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 7
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 10
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "la catedral||san martin": {
@@ -5117,35 +5117,35 @@
       "equipo_visitante": "Academia Leloir",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 5
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 2
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 5
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 6
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "buen ayre||los portones": {
