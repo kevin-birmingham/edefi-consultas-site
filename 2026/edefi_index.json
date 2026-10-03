@@ -5624,35 +5624,35 @@
       "equipo_visitante": "Academia Leloir",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 6
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 6
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 5
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "fragio||los portones": {
