@@ -5352,35 +5352,42 @@
       "categorias": {
         "19": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "13": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "18": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "14": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "17": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "16": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         },
         "15": {
           "home": null,
-          "away": null
+          "away": null,
+          "partido_pendiente": true
         }
       },
       "estado": "pendiente",
-      "partido_pendiente": false
+      "partido_pendiente": true
     },
     "juv. de castelar||u. de matanza": {
       "torneo": "clausura",
