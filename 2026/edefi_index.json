@@ -5521,35 +5521,35 @@
       "equipo_visitante": "Juv. de Castelar",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 8
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 12
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 9
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 7
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 5
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 6
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "u. de matanza||san martin": {
@@ -5560,35 +5560,35 @@
       "equipo_visitante": "San Martin",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 3
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 8,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 11,
+          "away": 6
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 5
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 7
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 4
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "f. de belgrano||alvear": {
@@ -5684,35 +5684,35 @@
       "equipo_visitante": "Los Portones",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 3
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 8
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 9
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "tiro libre||buen ayre": {
@@ -5723,35 +5723,35 @@
       "equipo_visitante": "Buen Ayre",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null
+          "home": 10,
+          "away": 1
         },
         "13": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 5
         },
         "18": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 7
         },
         "14": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 5
         },
         "17": {
-          "home": null,
-          "away": null
+          "home": 7,
+          "away": 4
         },
         "16": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 12
         },
         "15": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 8
         }
       },
-      "estado": "pendiente",
+      "estado": "normal",
       "partido_pendiente": false
     },
     "soc. italiana hn||tiro libre": {

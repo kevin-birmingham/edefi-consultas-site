@@ -16,7 +16,7 @@
   {
     "Equipo": "Buen Ayre",
     "Apertura": 211,
-    "Clausura": 122,
+    "Clausura": 139,
     "Anual": 0,
     "Consistente": false
   },
@@ -30,14 +30,14 @@
   {
     "Equipo": "Fragio",
     "Apertura": 194,
-    "Clausura": 112,
+    "Clausura": 122,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Juv. de Castelar",
     "Apertura": 210,
-    "Clausura": 115,
+    "Clausura": 134,
     "Anual": 0,
     "Consistente": false
   },
@@ -51,21 +51,21 @@
   {
     "Equipo": "Los Portones",
     "Apertura": 187,
-    "Clausura": 83,
+    "Clausura": 101,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Ramon Lista",
     "Apertura": 183,
-    "Clausura": 102,
+    "Clausura": 111,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "San Martin",
     "Apertura": 196,
-    "Clausura": 77,
+    "Clausura": 89,
     "Anual": 0,
     "Consistente": false
   },
@@ -79,14 +79,14 @@
   {
     "Equipo": "Tiro Libre",
     "Apertura": 183,
-    "Clausura": 105,
+    "Clausura": 116,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "U. de Matanza",
     "Apertura": 206,
-    "Clausura": 108,
+    "Clausura": 124,
     "Anual": 0,
     "Consistente": false
   }
