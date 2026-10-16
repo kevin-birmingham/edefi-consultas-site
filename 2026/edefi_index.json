@@ -5351,43 +5351,36 @@
       "equipo_visitante": "F. de Belgrano",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 0
         },
         "13": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 0
         },
         "18": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 2
         },
         "14": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 12,
+          "away": 3
         },
         "17": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 4,
+          "away": 0
         },
         "16": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 0
         },
         "15": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 7,
+          "away": 2
         }
       },
-      "estado": "pendiente",
-      "partido_pendiente": true
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "juv. de castelar||u. de matanza": {
       "torneo": "clausura",
