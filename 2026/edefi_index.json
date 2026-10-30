@@ -5592,43 +5592,36 @@
       "equipo_visitante": "Alvear",
       "categorias": {
         "19": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 2
         },
         "13": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 3,
+          "away": 8
         },
         "18": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 5,
+          "away": 5
         },
         "14": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 5
         },
         "17": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 1,
+          "away": 5
         },
         "16": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 0,
+          "away": 2
         },
         "15": {
-          "home": null,
-          "away": null,
-          "partido_pendiente": true
+          "home": 2,
+          "away": 0
         }
       },
-      "estado": "pendiente",
-      "partido_pendiente": true
+      "estado": "normal",
+      "partido_pendiente": false
     },
     "la catedral||academia leloir": {
       "torneo": "clausura",
