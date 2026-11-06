@@ -16,7 +16,7 @@
   {
     "Equipo": "Buen Ayre",
     "Apertura": 211,
-    "Clausura": 179,
+    "Clausura": 200,
     "Anual": 0,
     "Consistente": false
   },
@@ -44,7 +44,7 @@
   {
     "Equipo": "La Catedral",
     "Apertura": 159,
-    "Clausura": 124,
+    "Clausura": 131,
     "Anual": 0,
     "Consistente": false
   },
