@@ -2,7 +2,7 @@
   {
     "Equipo": "Academia Leloir",
     "Apertura": 218,
-    "Clausura": 174,
+    "Clausura": 195,
     "Anual": 0,
     "Consistente": false
   },
@@ -23,14 +23,14 @@
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 102,
-    "Clausura": 84,
+    "Clausura": 91,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Fragio",
     "Apertura": 194,
-    "Clausura": 156,
+    "Clausura": 171,
     "Anual": 0,
     "Consistente": false
   },
@@ -44,7 +44,7 @@
   {
     "Equipo": "La Catedral",
     "Apertura": 159,
-    "Clausura": 131,
+    "Clausura": 144,
     "Anual": 0,
     "Consistente": false
   },
@@ -79,7 +79,7 @@
   {
     "Equipo": "Tiro Libre",
     "Apertura": 183,
-    "Clausura": 165,
+    "Clausura": 185,
     "Anual": 0,
     "Consistente": false
   },
