@@ -9,14 +9,14 @@
   {
     "Equipo": "Alvear",
     "Apertura": 187,
-    "Clausura": 155,
+    "Clausura": 164,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Buen Ayre",
     "Apertura": 211,
-    "Clausura": 200,
+    "Clausura": 221,
     "Anual": 0,
     "Consistente": false
   },
@@ -37,7 +37,7 @@
   {
     "Equipo": "Juv. de Castelar",
     "Apertura": 210,
-    "Clausura": 193,
+    "Clausura": 212,
     "Anual": 0,
     "Consistente": false
   },
@@ -65,14 +65,14 @@
   {
     "Equipo": "San Martin",
     "Apertura": 196,
-    "Clausura": 157,
+    "Clausura": 169,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Soc. Italiana HN",
     "Apertura": 202,
-    "Clausura": 172,
+    "Clausura": 188,
     "Anual": 0,
     "Consistente": false
   },
@@ -86,7 +86,7 @@
   {
     "Equipo": "U. de Matanza",
     "Apertura": 206,
-    "Clausura": 164,
+    "Clausura": 171,
     "Anual": 0,
     "Consistente": false
   }
