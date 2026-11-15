@@ -16,21 +16,21 @@
   {
     "Equipo": "Buen Ayre",
     "Apertura": 211,
-    "Clausura": 221,
+    "Clausura": 242,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "F. de Belgrano",
     "Apertura": 102,
-    "Clausura": 97,
+    "Clausura": 103,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Fragio",
     "Apertura": 194,
-    "Clausura": 171,
+    "Clausura": 192,
     "Anual": 0,
     "Consistente": false
   },
@@ -44,21 +44,21 @@
   {
     "Equipo": "La Catedral",
     "Apertura": 159,
-    "Clausura": 144,
+    "Clausura": 153,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Los Portones",
     "Apertura": 187,
-    "Clausura": 174,
+    "Clausura": 195,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Ramon Lista",
     "Apertura": 183,
-    "Clausura": 159,
+    "Clausura": 166,
     "Anual": 0,
     "Consistente": false
   },
@@ -72,7 +72,7 @@
   {
     "Equipo": "Soc. Italiana HN",
     "Apertura": 202,
-    "Clausura": 188,
+    "Clausura": 207,
     "Anual": 0,
     "Consistente": false
   },
