@@ -2,14 +2,14 @@
   {
     "Equipo": "Academia Leloir",
     "Apertura": 218,
-    "Clausura": 195,
+    "Clausura": 208,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "Alvear",
     "Apertura": 187,
-    "Clausura": 164,
+    "Clausura": 177,
     "Anual": 0,
     "Consistente": false
   },
@@ -37,7 +37,7 @@
   {
     "Equipo": "Juv. de Castelar",
     "Apertura": 210,
-    "Clausura": 212,
+    "Clausura": 227,
     "Anual": 0,
     "Consistente": false
   },
@@ -65,7 +65,7 @@
   {
     "Equipo": "San Martin",
     "Apertura": 196,
-    "Clausura": 169,
+    "Clausura": 184,
     "Anual": 0,
     "Consistente": false
   },
@@ -79,14 +79,14 @@
   {
     "Equipo": "Tiro Libre",
     "Apertura": 183,
-    "Clausura": 185,
+    "Clausura": 200,
     "Anual": 0,
     "Consistente": false
   },
   {
     "Equipo": "U. de Matanza",
     "Apertura": 206,
-    "Clausura": 171,
+    "Clausura": 184,
     "Anual": 0,
     "Consistente": false
   }
